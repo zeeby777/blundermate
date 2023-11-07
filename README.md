@@ -1,5 +1,9 @@
 # blundermate
 
+**uses react and flask**
+
+![game screenshot](https://i.imgur.com/B2bluqm.png)
+
 a chess puzzle game where your objective is to lose. 
 
 puzzles gathered from real blunders made by real humans in real chess games.
