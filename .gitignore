@@ -1,0 +1,4 @@
+finder/database/*
+!finder/database/medium.pgn
+finder/puzzles/*
+!finder/puzzles.json

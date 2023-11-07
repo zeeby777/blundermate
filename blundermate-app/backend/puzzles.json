@@ -1,0 +1,4092 @@
+[
+    [
+        {
+			"id": "DEEZNUTS",
+            "fen": "8/1p5p/p7/5k2/1PPP4/2KNr3/r6P/5R2 b - - 2 34",
+            "eval": 2.53,
+            "averageLichessElo": 1646,
+            "link": "https://lichess.org/7tuxquet"
+        },
+        {
+            "id": "SG46K90Z",
+            "fen": "rn1qkb1r/pp1b2pp/3p1p2/2p1pn2/2P1N3/1P1P1P1P/PBQ1P1P1/2KR1BNR b kq - 6 10",
+            "eval": 2.11,
+            "averageLichessElo": 1503,
+            "link": "https://lichess.org/x0ekc8d4"
+        },
+        {
+            "id": "G5XI10UT",
+            "fen": "b4rk1/2q1bppp/2p1p1n1/1p2P3/3P3P/2PQBN2/2B2PP1/4R1K1 b - - 0 20",
+            "eval": -0.55,
+            "averageLichessElo": 1919,
+            "link": "https://lichess.org/4hqvbv5d"
+        },
+        {
+            "id": "YJVRE7FK",
+            "fen": "3rr1k1/pp4p1/2p1b1Q1/8/4BP2/6P1/1q5P/3RR2K b - - 1 36",
+            "eval": 0.41,
+            "averageLichessElo": 1993,
+            "link": "https://lichess.org/ggwaporh"
+        },
+        {
+            "id": "G6LPZ4FQ",
+            "fen": "1q2r1k1/5p2/1pR4Q/6p1/1P3b2/5P2/5rB1/6RK w - - 0 35",
+            "eval": 0.0,
+            "averageLichessElo": 1552,
+            "link": "https://lichess.org/f4e24oz9"
+        },
+        {
+            "id": "2SS5ZYW7",
+            "fen": "3r4/6pk/1RP1p1rp/4Pp2/6q1/8/3Q2PP/2R3K1 w - - 7 37",
+            "eval": -0.18,
+            "averageLichessElo": 1705,
+            "link": "https://lichess.org/87vcj7yo"
+        },
+        {
+            "id": "LPNOWYB1",
+            "fen": "5rk1/p4ppp/1p2p3/3bP3/5P1q/3Q1P2/P6P/1B3RK1 b - - 0 22",
+            "eval": 3.42,
+            "averageLichessElo": 1565,
+            "link": "https://lichess.org/0bpvcep9"
+        },
+        {
+            "id": "TJ1YE4TM",
+            "fen": "r2k1b1r/1pp2Qp1/p3p1Np/8/3q4/2N1n1P1/PPP3KP/R4R2 w - - 2 19",
+            "eval": 4.91,
+            "averageLichessElo": 1502,
+            "link": "https://lichess.org/m3knmwwo"
+        },
+        {
+            "id": "93OJC8K2",
+            "fen": "1r6/2p1b1p1/2k5/p6p/K2P1P2/2PN3P/2r5/R6R w - - 5 33",
+            "eval": -0.15,
+            "averageLichessElo": 1874,
+            "link": "https://lichess.org/oywez8cl"
+        },
+        {
+            "id": "0Y4MSOC3",
+            "fen": "r1b4k/1p5p/3p1np1/3Bq3/p3P3/2N4P/PPP3P1/R4Q1K b - - 2 26",
+            "eval": 0.0,
+            "averageLichessElo": 1866,
+            "link": "https://lichess.org/vp12hknc"
+        },
+        {
+            "id": "TWZG3KRR",
+            "fen": "8/6p1/5p1p/R5k1/6P1/2r1PK2/2P4P/8 b - - 2 40",
+            "eval": -0.03,
+            "averageLichessElo": 1897,
+            "link": "https://lichess.org/lr5q24i7"
+        },
+        {
+            "id": "2QLNE69N",
+            "fen": "2kr3r/ppp2qpp/3b1p2/8/3n2nB/3B1N2/PPP2PP1/R2Q1RKN w - - 0 16",
+            "eval": 3.61,
+            "averageLichessElo": 1694,
+            "link": "https://lichess.org/jfbw015e"
+        },
+        {
+            "id": "X27F7GZX",
+            "fen": "r5k1/2b1Rp1p/r2p1Pp1/1p1P4/b2P2P1/B6P/4B1K1/8 b - - 4 34",
+            "eval": 5.53,
+            "averageLichessElo": 1919,
+            "link": "https://lichess.org/jz8b8274"
+        },
+        {
+            "id": "Q6OPORP0",
+            "fen": "2k4r/Bpp2pp1/4q2p/8/4p3/7P/nPP1QPP1/1K1R4 b - - 0 23",
+            "eval": 0.6,
+            "averageLichessElo": 1630,
+            "link": "https://lichess.org/qrtbexsl"
+        },
+        {
+            "id": "4FULOW9E",
+            "fen": "8/7p/5Kpk/8/5pR1/8/8/7r b - - 1 49",
+            "eval": 4.85,
+            "averageLichessElo": 1657,
+            "link": "https://lichess.org/6ply307r"
+        },
+        {
+            "id": "X1BVC74E",
+            "fen": "8/1b1R2k1/p3p1pp/4N3/1n3P2/2r3PP/5K2/8 b - - 3 36",
+            "eval": 0.0,
+            "averageLichessElo": 1713,
+            "link": "https://lichess.org/m78clv7k"
+        },
+        {
+            "id": "6FV21M4T",
+            "fen": "5rk1/5pbp/3Qb1p1/8/2P3P1/2Np4/PP3q2/K2R2R1 w - - 1 26",
+            "eval": -0.03,
+            "averageLichessElo": 1730,
+            "link": "https://lichess.org/llnaeo3l"
+        },
+        {
+            "id": "XMGPP2I7",
+            "fen": "r6k/pp5r/1Pb1p2p/4Pn2/4NB2/2Q3Pq/PP3P1P/R3R1K1 w - - 1 31",
+            "eval": 1.87,
+            "averageLichessElo": 1759,
+            "link": "https://lichess.org/ev544kjg"
+        },
+        {
+            "id": "1ZIVVOAH",
+            "fen": "8/1p4pk/1p2Rr2/6RK/1r6/8/8/8 w - - 18 43",
+            "eval": 0.0,
+            "averageLichessElo": 1699,
+            "link": "https://lichess.org/5ljiken2"
+        },
+        {
+            "id": "Z9AJEABS",
+            "fen": "Q3r3/p1pk1p1p/8/6B1/8/1P6/b1P1q3/2KR4 b - - 4 24",
+            "eval": 6.12,
+            "averageLichessElo": 1713,
+            "link": "https://lichess.org/zafdtp6u"
+        },
+        {
+            "id": "U86NY0UQ",
+            "fen": "4k3/8/5K1R/7p/6bP/8/8/8 b - - 24 70",
+            "eval": -0.34,
+            "averageLichessElo": 1907,
+            "link": "https://lichess.org/bwg8yldc"
+        },
+        {
+            "id": "9UGZG1Q4",
+            "fen": "r1b2rk1/ppp2ppp/6n1/4B1q1/4Q3/3B4/PPP2PPP/3RR1K1 b - - 0 15",
+            "eval": -0.08,
+            "averageLichessElo": 1578,
+            "link": "https://lichess.org/ozjqv96e"
+        },
+        {
+            "id": "EKUSTM1D",
+            "fen": "1r2r1k1/1N2R2p/p1p3pN/8/8/1P5P/P4nPK/8 b - - 5 37",
+            "eval": 0.34,
+            "averageLichessElo": 1771,
+            "link": "https://lichess.org/19e5dg0p"
+        },
+        {
+            "id": "JMK8YP7E",
+            "fen": "2R5/2P4k/6p1/6p1/5p2/2r2K1P/8/8 w - - 8 53",
+            "eval": 0.0,
+            "averageLichessElo": 1578,
+            "link": "https://lichess.org/11ovrxin"
+        },
+        {
+            "id": "HHX1UM38",
+            "fen": "2b4k/p1q2pp1/1p2p3/4b3/4B3/2P1B1P1/P3PP1P/3Q2K1 b - - 0 27",
+            "eval": -0.12,
+            "averageLichessElo": 1854,
+            "link": "https://lichess.org/iq9oia2l"
+        },
+        {
+            "id": "PV3K2OVT",
+            "fen": "r2qkb1r/p2b2pp/4pn2/4N3/3Q4/2N5/PPP2PPP/2KR3R b kq - 2 14",
+            "eval": 0.18,
+            "averageLichessElo": 1819,
+            "link": "https://lichess.org/xctb0ga6"
+        },
+        {
+            "id": "S0GI241B",
+            "fen": "r4r2/5pR1/4k3/2PpNR2/3P1P2/2q1P3/p3Q1PP/6K1 w - - 4 41",
+            "eval": 6.09,
+            "averageLichessElo": 1531,
+            "link": "https://lichess.org/6ghx3uyt"
+        },
+        {
+            "id": "BWPQFNIQ",
+            "fen": "2kr3r/1ppq1ppp/Pb6/n3p3/P7/2PP1Q2/3BNPPP/R3K2R b KQ - 0 15",
+            "eval": 1.18,
+            "averageLichessElo": 1556,
+            "link": "https://lichess.org/h2ds2o9k"
+        },
+        {
+            "id": "Y5O6MIHA",
+            "fen": "r4rk1/p4pp1/b3p2p/3p4/6R1/1P1qPP2/P2N2PP/2Q1K1NR w K - 3 20",
+            "eval": -0.82,
+            "averageLichessElo": 1587,
+            "link": "https://lichess.org/fjeewnh5"
+        },
+        {
+            "id": "Y2GFQAQU",
+            "fen": "6Q1/8/4p3/8/5k2/7p/7K/4q3 w - - 0 53",
+            "eval": -0.03,
+            "averageLichessElo": 1635,
+            "link": "https://lichess.org/m6nlbdt5"
+        },
+        {
+            "id": "FRQ5J4L8",
+            "fen": "r1b3nr/1p1knRp1/p3p1B1/3NP1p1/3P2Q1/P3B1P1/1q5P/R5K1 w - - 2 20",
+            "eval": 4.0,
+            "averageLichessElo": 2045,
+            "link": "https://lichess.org/vecm8t03"
+        },
+        {
+            "id": "T986FAUM",
+            "fen": "r2r2k1/5pqp/4p1p1/6P1/p2P3Q/1p2PP2/nB2RKP1/7R b - - 1 30",
+            "eval": 3.79,
+            "averageLichessElo": 1549,
+            "link": "https://lichess.org/4fbb5mh1"
+        },
+        {
+            "id": "MMMLBTR7",
+            "fen": "r2q1rk1/3n1pb1/2p3np/3pP1p1/pP6/2PQ1NB1/1P2NPPP/RB3K2 b - - 2 19",
+            "eval": 0.55,
+            "averageLichessElo": 1700,
+            "link": "https://lichess.org/zgeej9fg"
+        },
+        {
+            "id": "DIE1CF06",
+            "fen": "8/p3kr1p/1qpp1n2/4pNQ1/5r1P/1P6/P1P5/2KR2R1 b - - 5 28",
+            "eval": -0.72,
+            "averageLichessElo": 1647,
+            "link": "https://lichess.org/6rcun7aj"
+        },
+        {
+            "id": "DISP504K",
+            "fen": "4rrk1/1p1q2p1/p3b2p/3p4/1NpP4/2P2p1P/PPQ3P1/RB3RK1 b - - 1 26",
+            "eval": -0.03,
+            "averageLichessElo": 1571,
+            "link": "https://lichess.org/bjlfk3pd"
+        },
+        {
+            "id": "YYQASB0F",
+            "fen": "r1b1kb1r/2qp1pp1/p1n1p3/1p5p/4P1n1/2PQBN1P/PP1NBPP1/R4RK1 w kq - 3 12",
+            "eval": 0.94,
+            "averageLichessElo": 1877,
+            "link": "https://lichess.org/v5l6s63m"
+        },
+        {
+            "id": "X9WNKGKY",
+            "fen": "8/2pb1prk/1p1p3p/p2PpP2/2P1PbBq/1P3QN1/P6P/6RK w - - 4 34",
+            "eval": -0.92,
+            "averageLichessElo": 2080,
+            "link": "https://lichess.org/mrmescre"
+        },
+        {
+            "id": "52AZCN6S",
+            "fen": "r7/7p/3N2p1/2pp2k1/6p1/3nP1K1/6P1/5R2 b - - 3 39",
+            "eval": 4.57,
+            "averageLichessElo": 1639,
+            "link": "https://lichess.org/xv9dys5f"
+        },
+        {
+            "id": "UQSEM5OB",
+            "fen": "r4rk1/pb3p2/4pQ1p/3qN1p1/3pN3/8/PPP2PPP/R3R1K1 w - - 2 19",
+            "eval": 7.9,
+            "averageLichessElo": 1739,
+            "link": "https://lichess.org/vvln4wj0"
+        },
+        {
+            "id": "E4KV6H1G",
+            "fen": "4r1k1/pb4p1/7p/8/2p1qP2/P3N1P1/4QK1P/4R3 w - - 3 32",
+            "eval": 0.95,
+            "averageLichessElo": 1875,
+            "link": "https://lichess.org/g02k71l5"
+        },
+        {
+            "id": "HONKZ5X3",
+            "fen": "3Rb1r1/k3r3/p1p1Np2/Pp3P2/1P2P3/2P5/6Kp/3R4 w - - 0 43",
+            "eval": 2.43,
+            "averageLichessElo": 1634,
+            "link": "https://lichess.org/le6e1leo"
+        },
+        {
+            "id": "JO55ZQO7",
+            "fen": "1r6/p3rk1p/6pq/3B4/8/1P1b4/PQ4K1/2R5 b - - 0 42",
+            "eval": 0.0,
+            "averageLichessElo": 1831,
+            "link": "https://lichess.org/9jwrelwh"
+        },
+        {
+            "id": "9DEUJTTP",
+            "fen": "5rk1/1p2r2p/p1pq2p1/3p2P1/5N1Q/1P2P3/P1PP4/1K5R b - - 5 28",
+            "eval": 3.33,
+            "averageLichessElo": 1956,
+            "link": "https://lichess.org/lab9sgw1"
+        },
+        {
+            "id": "10HIGN7M",
+            "fen": "5k2/pp2r2p/2p2p2/4p2B/1Q2Pn2/PP1P1R2/5Kr1/B7 w - - 21 40",
+            "eval": 6.01,
+            "averageLichessElo": 1949,
+            "link": "https://lichess.org/upzzm8qs"
+        },
+        {
+            "id": "U5B47HWL",
+            "fen": "2k4r/1pp3p1/p1brp1q1/4RpB1/3P3p/P1P4P/1P3PP1/R2Q2K1 w - - 1 20",
+            "eval": 0.87,
+            "averageLichessElo": 1596,
+            "link": "https://lichess.org/9yqom3wz"
+        },
+        {
+            "id": "6PTDN9JW",
+            "fen": "r4rk1/pp3qp1/2p4p/2bpB3/4nPQ1/4PN2/PP4PP/R3R1K1 b - - 4 21",
+            "eval": 0.73,
+            "averageLichessElo": 1606,
+            "link": "https://lichess.org/ykvxxczb"
+        },
+        {
+            "id": "8VDE6TIJ",
+            "fen": "1b2rk2/5pp1/3p3p/3N1Pq1/1PP4n/5Q1P/6P1/R4R1K w - - 3 30",
+            "eval": 5.48,
+            "averageLichessElo": 1746,
+            "link": "https://lichess.org/9mt146ma"
+        },
+        {
+            "id": "B823TUDC",
+            "fen": "1q3r2/p5pk/2p1Q2p/3pN3/8/1PP4P/P5P1/7K w - - 2 27",
+            "eval": 0.0,
+            "averageLichessElo": 1764,
+            "link": "https://lichess.org/kgevkm8u"
+        },
+        {
+            "id": "R48VLOSI",
+            "fen": "r4rk1/1b3pp1/1p1n3p/p2qN3/3P4/2PQ1N1P/6P1/4RRK1 w - - 1 24",
+            "eval": 0.05,
+            "averageLichessElo": 1595,
+            "link": "https://lichess.org/x6hb341h"
+        },
+        {
+            "id": "D80QH1WS",
+            "fen": "4r1k1/p1p2ppp/2n2q2/3nN3/Q2P4/3bP3/2r2PPP/R3BRK1 b - - 11 24",
+            "eval": 5.23,
+            "averageLichessElo": 2089,
+            "link": "https://lichess.org/lrxs65v9"
+        },
+        {
+            "id": "YV10M1YS",
+            "fen": "4k3/2Q2b2/p4qp1/5n2/P3pr2/2P4P/1P3PP1/3R2K1 b - - 0 26",
+            "eval": 0.0,
+            "averageLichessElo": 1657,
+            "link": "https://lichess.org/spvtcnze"
+        },
+        {
+            "id": "NXRF0Z5U",
+            "fen": "4r3/pbp2pk1/1pn3p1/4N3/7q/3P1B2/PPP2PP1/R2QRK2 w - - 5 21",
+            "eval": 5.7,
+            "averageLichessElo": 1626,
+            "link": "https://lichess.org/xk0n03nv"
+        },
+        {
+            "id": "9WUJISRQ",
+            "fen": "rb3rk1/1p4pp/p4qn1/3pnN2/1P6/P3P1PB/1BP2P1P/R2QK2R w KQ - 1 23",
+            "eval": 4.99,
+            "averageLichessElo": 1646,
+            "link": "https://lichess.org/tp67mt7t"
+        },
+        {
+            "id": "KXSLWZDJ",
+            "fen": "rn2k2r/ppp2ppp/5n2/2bP4/7q/2NP1bB1/PPP1K1PP/R2Q1B1R w kq - 0 10",
+            "eval": -0.13,
+            "averageLichessElo": 1666,
+            "link": "https://lichess.org/izn684ba"
+        },
+        {
+            "id": "ETZ2X00J",
+            "fen": "r3k1n1/p1p4r/2p1PpN1/6Bp/5R2/5b2/PPP2P1P/2K5 b - - 2 23",
+            "eval": 5.04,
+            "averageLichessElo": 1510,
+            "link": "https://lichess.org/yn9kqe0y"
+        },
+        {
+            "id": "B9OGQY9C",
+            "fen": "3q4/1p4kp/p5p1/5p2/2Q1p3/2P4P/PP3PP1/6K1 w - - 2 27",
+            "eval": 0.04,
+            "averageLichessElo": 1602,
+            "link": "https://lichess.org/nswxa0qz"
+        },
+        {
+            "id": "K1LLUJ8B",
+            "fen": "6k1/pp5p/2p3p1/5pP1/PBp2P2/2P3KR/1r4r1/R7 w - - 0 35",
+            "eval": -0.1,
+            "averageLichessElo": 1648,
+            "link": "https://lichess.org/whtn44aa"
+        },
+        {
+            "id": "EHYUP0EF",
+            "fen": "3qk2r/1b3pp1/pn2p2p/3pP3/1p1P4/bP3N2/2Q2PPP/1BB2RK1 b k - 1 19",
+            "eval": 0.32,
+            "averageLichessElo": 1646,
+            "link": "https://lichess.org/6nzqyyv1"
+        },
+        {
+            "id": "H1IV9PX0",
+            "fen": "6k1/p1RR3p/b6q/2P5/1n2pP2/6B1/P2K3P/8 b - - 17 55",
+            "eval": 2.01,
+            "averageLichessElo": 1809,
+            "link": "https://lichess.org/2xiriw3l"
+        },
+        {
+            "id": "XV7ZM32H",
+            "fen": "2k2rnr/pbpp4/1pq1p1pp/4Pp2/4P1P1/3PBQ2/PP5P/1R3R1K b - - 1 19",
+            "eval": 5.39,
+            "averageLichessElo": 1664,
+            "link": "https://lichess.org/b093a4f8"
+        },
+        {
+            "id": "6Y4NCCXV",
+            "fen": "k2r1r2/pb1N3p/1pp3p1/8/8/2R5/PPP2PPP/3R2K1 w - - 1 23",
+            "eval": 5.83,
+            "averageLichessElo": 1509,
+            "link": "https://lichess.org/vji4vc5d"
+        },
+        {
+            "id": "UBEN8MPC",
+            "fen": "4r1k1/5ppp/2QP4/p7/Pp1b4/1P6/4rPPP/5N1K b - - 2 26",
+            "eval": 0.16,
+            "averageLichessElo": 1562,
+            "link": "https://lichess.org/sbgwlyfp"
+        },
+        {
+            "id": "7V0CBZ8M",
+            "fen": "2r1r1k1/4Np1p/1q1n2p1/p2P4/1p3P2/1P5P/1Q4P1/4RR1K b - - 1 30",
+            "eval": 0.18,
+            "averageLichessElo": 1765,
+            "link": "https://lichess.org/4njyycyo"
+        },
+        {
+            "id": "BV32K7ER",
+            "fen": "2kq4/2p2p1p/K7/1Q2Pr2/8/8/PP6/8 b - - 2 45",
+            "eval": 6.62,
+            "averageLichessElo": 1658,
+            "link": "https://lichess.org/c7i3nlud"
+        },
+        {
+            "id": "JLBI4RMH",
+            "fen": "1k4r1/p7/1p6/2p5/2Pp1b2/1P5n/P2N3P/R4R1K w - - 0 33",
+            "eval": 2.37,
+            "averageLichessElo": 1598,
+            "link": "https://lichess.org/cuom8yam"
+        },
+        {
+            "id": "2ZD5LC60",
+            "fen": "r3r1k1/1p3npp/p2qN1n1/2pp1P2/6Q1/8/PPP3PP/R3R1K1 b - - 0 19",
+            "eval": 3.23,
+            "averageLichessElo": 1865,
+            "link": "https://lichess.org/55dypbkj"
+        },
+        {
+            "id": "IHU8MACG",
+            "fen": "r3kr2/2pn2pp/p4q2/1p1pn3/5N2/2P3P1/PP3P1P/R1BQ1K1R w q - 2 17",
+            "eval": 0.09,
+            "averageLichessElo": 1633,
+            "link": "https://lichess.org/94u4ny4i"
+        },
+        {
+            "id": "LI4KVI2V",
+            "fen": "1r2kb1r/p2n1ppp/2Q1p3/B1PpN3/3P1PP1/4P2P/1PbK1q2/R5R1 w k - 6 22",
+            "eval": 0.0,
+            "averageLichessElo": 1517,
+            "link": "https://lichess.org/fd6axk6m"
+        },
+        {
+            "id": "KFW19902",
+            "fen": "5rk1/p5pp/2b1p3/3pP3/PBpPp1B1/4b3/2Q3PP/5RK1 w - - 0 27",
+            "eval": 4.66,
+            "averageLichessElo": 1684,
+            "link": "https://lichess.org/7jvo5bwe"
+        },
+        {
+            "id": "OC9KE2GV",
+            "fen": "r2r3k/4q1pp/1p3p2/1P1Q4/P1R2P2/8/6PP/5RK1 w - - 1 27",
+            "eval": 0.81,
+            "averageLichessElo": 1569,
+            "link": "https://lichess.org/xgvr8m38"
+        },
+        {
+            "id": "2TQLO2NW",
+            "fen": "2r2r1k/1bq2p1p/pp2p3/3p1p2/1P3PPQ/P2BP3/2P4P/R4RK1 b - - 0 21",
+            "eval": 0.31,
+            "averageLichessElo": 1558,
+            "link": "https://lichess.org/kyus44rg"
+        },
+        {
+            "id": "I7M9NZWZ",
+            "fen": "2r5/8/6R1/8/8/3K4/8/4k3 b - - 4 81",
+            "eval": 0.0,
+            "averageLichessElo": 1563,
+            "link": "https://lichess.org/v6ok0y6e"
+        },
+        {
+            "id": "4PBPN95O",
+            "fen": "1kr5/7p/1R3p2/4p1p1/8/2r4P/P4PK1/1R6 b - - 0 30",
+            "eval": -0.16,
+            "averageLichessElo": 1594,
+            "link": "https://lichess.org/4dzfohfm"
+        },
+        {
+            "id": "YGOA9WFQ",
+            "fen": "3r1rk1/p1p2p1p/2p2p2/8/1b4b1/2N1P3/PPP2PPP/R1K3NR w - - 6 15",
+            "eval": 1.25,
+            "averageLichessElo": 1639,
+            "link": "https://lichess.org/v5foo9lv"
+        },
+        {
+            "id": "OYL0EWF6",
+            "fen": "8/5p2/8/1p1k1pPp/2p2K1P/2Pr4/1P2R3/8 w - - 2 49",
+            "eval": 0.42,
+            "averageLichessElo": 1766,
+            "link": "https://lichess.org/sklh3xz2"
+        },
+        {
+            "id": "VXECX8MF",
+            "fen": "4r1k1/pp4p1/2b1p2p/4P1q1/4QR2/PN6/1P4PP/2R3K1 w - - 1 26",
+            "eval": 5.64,
+            "averageLichessElo": 1614,
+            "link": "https://lichess.org/ue7xhymr"
+        },
+        {
+            "id": "ZADBQEOY",
+            "fen": "6k1/p5p1/8/2p1pb2/2Bbp3/1P2p2P/P4qP1/3Q3K b - - 1 39",
+            "eval": 5.35,
+            "averageLichessElo": 1674,
+            "link": "https://lichess.org/d4f2qz70"
+        },
+        {
+            "id": "NELMVNWI",
+            "fen": "rn2k2r/pbpp1ppp/1p1bp3/8/3PP3/3B2Pq/PPP1NP1P/R1BQ1RK1 w kq - 3 10",
+            "eval": 1.12,
+            "averageLichessElo": 1835,
+            "link": "https://lichess.org/o8svr8ay"
+        },
+        {
+            "id": "302B3MQN",
+            "fen": "8/4rR2/p3P1Pk/1p3K1P/P7/6P1/1b6/8 b - - 2 45",
+            "eval": -0.94,
+            "averageLichessElo": 1734,
+            "link": "https://lichess.org/p12kuh70"
+        },
+        {
+            "id": "0DG5KUVA",
+            "fen": "3r1r2/pkR3R1/1p5p/2n3p1/P7/6KP/6P1/8 b - - 0 43",
+            "eval": 3.78,
+            "averageLichessElo": 1646,
+            "link": "https://lichess.org/4a29r1hq"
+        },
+        {
+            "id": "CF9GJ0F0",
+            "fen": "5q1k/p3r1pp/1pp2n1P/3p1QB1/3P2P1/2PP1P2/P2K4/8 b - - 0 27",
+            "eval": 4.6,
+            "averageLichessElo": 1785,
+            "link": "https://lichess.org/7ius0vx6"
+        },
+        {
+            "id": "3552X7VZ",
+            "fen": "8/pp1q3k/2P3n1/P1P5/3Pp3/4n1PK/5r1P/R1B5 w - - 1 33",
+            "eval": 0.0,
+            "averageLichessElo": 1644,
+            "link": "https://lichess.org/1ho4bpaa"
+        },
+        {
+            "id": "B3FNMCGX",
+            "fen": "8/5p1k/8/8/2R2p2/2BB2p1/5qP1/7K b - - 9 48",
+            "eval": 1.79,
+            "averageLichessElo": 1861,
+            "link": "https://lichess.org/3jnr6wk2"
+        },
+        {
+            "id": "Y80IL6MJ",
+            "fen": "r3r1k1/1R6/pp2B1p1/4p1Bp/1P6/P2P4/5PPP/5K2 b - - 6 31",
+            "eval": 0.11,
+            "averageLichessElo": 1581,
+            "link": "https://lichess.org/67s5hkr5"
+        },
+        {
+            "id": "P6BFG7DV",
+            "fen": "2k2b1r/R1p1npp1/4p2p/4P2P/5rP1/3b4/6B1/3R2K1 b - - 1 30",
+            "eval": 6.5,
+            "averageLichessElo": 1500,
+            "link": "https://lichess.org/z70z9w3g"
+        },
+        {
+            "id": "3R2TAREQ",
+            "fen": "r4r1k/1bb3pp/pn1pB1qn/1p6/5PN1/2PN4/PP2QBPP/4RRK1 w - - 1 28",
+            "eval": 2.66,
+            "averageLichessElo": 1790,
+            "link": "https://lichess.org/v06rf69t"
+        },
+        {
+            "id": "UK5PBWC6",
+            "fen": "r3k2r/pbpp1ppp/npq1p3/8/3P4/B4N2/PPP2PPP/R2QR1K1 w kq - 6 13",
+            "eval": -0.62,
+            "averageLichessElo": 1500,
+            "link": "https://lichess.org/p5uynyqy"
+        },
+        {
+            "id": "ZMD54J65",
+            "fen": "3r1rk1/1bp2pbp/p1P3p1/3p3q/BP3Bn1/P7/3RNPPP/3Q1RK1 w - - 3 19",
+            "eval": 6.16,
+            "averageLichessElo": 1563,
+            "link": "https://lichess.org/p7a8owr2"
+        },
+        {
+            "id": "4SMTR2BQ",
+            "fen": "3q1k2/p2b2r1/1pn1p1B1/3pP1bQ/3P4/P1N2p2/1P3K2/7R b - - 7 35",
+            "eval": 4.77,
+            "averageLichessElo": 1613,
+            "link": "https://lichess.org/qoq4ogwu"
+        },
+        {
+            "id": "T9WV64OP",
+            "fen": "4r1k1/6pp/4b3/4p3/Q4qp1/1P5P/P2P1P2/5RK1 b - - 1 32",
+            "eval": 5.06,
+            "averageLichessElo": 1600,
+            "link": "https://lichess.org/3ytd7ivm"
+        },
+        {
+            "id": "YOTXKP4W",
+            "fen": "2kr2r1/ppp1pp1p/2n2nqb/6N1/1PN5/P2P4/2P2PPP/R1BQ1RK1 w - - 1 15",
+            "eval": 0.31,
+            "averageLichessElo": 1627,
+            "link": "https://lichess.org/0w0g5wab"
+        },
+        {
+            "id": "3SV12H71",
+            "fen": "1k1r3r/1pq2ppp/p7/3p1QP1/3n1P1P/P7/1PPB4/2K1R2R w - - 0 24",
+            "eval": 0.46,
+            "averageLichessElo": 1722,
+            "link": "https://lichess.org/jkqw90wc"
+        },
+        {
+            "id": "MRNO2G7T",
+            "fen": "r4rk1/5pp1/p5qp/8/6R1/P1Q1P2P/5RP1/6K1 b - - 0 29",
+            "eval": -0.31,
+            "averageLichessElo": 1781,
+            "link": "https://lichess.org/y6kus0sh"
+        },
+        {
+            "id": "R3YKZUGD",
+            "fen": "8/kp2Q3/p1p5/8/3qP3/P7/1P2r3/KR6 w - - 5 40",
+            "eval": -0.18,
+            "averageLichessElo": 1528,
+            "link": "https://lichess.org/r8jxmr7u"
+        },
+        {
+            "id": "TBFCGDJ5",
+            "fen": "6r1/1p6/2p4p/1p1p3k/1KnP1PpP/P7/5PR1/6R1 b - - 7 51",
+            "eval": 0.48,
+            "averageLichessElo": 1901,
+            "link": "https://lichess.org/1sltcbbw"
+        },
+        {
+            "id": "KYSXR05U",
+            "fen": "5k2/p3bp2/1q2n1p1/7r/5p2/2Q5/PPP2PPP/3R2K1 b - - 2 25",
+            "eval": 6.19,
+            "averageLichessElo": 1536,
+            "link": "https://lichess.org/ler94ktc"
+        },
+        {
+            "id": "9FZUPVQI",
+            "fen": "1k5r/ppp5/2np4/4p2r/4PbR1/P1PP1P1B/1P3K2/6R1 b - - 6 28",
+            "eval": 6.11,
+            "averageLichessElo": 1707,
+            "link": "https://lichess.org/v83o2zo1"
+        },
+        {
+            "id": "WUUPRJK6",
+            "fen": "2r1r2k/6pp/5p2/p2N4/1n3q2/1PQ5/PBP2PPP/4R1K1 b - - 7 25",
+            "eval": 5.69,
+            "averageLichessElo": 1500,
+            "link": "https://lichess.org/2546d9aw"
+        },
+        {
+            "id": "Z1928KYZ",
+            "fen": "2kr2nr/ppp2q1p/2np4/2b1p1p1/4P3/2NP1N2/PPP2PPP/R1BQK2R w KQ - 0 11",
+            "eval": 1.67,
+            "averageLichessElo": 1548,
+            "link": "https://lichess.org/t5r9sb06"
+        },
+        {
+            "id": "OP3U4S0B",
+            "fen": "2Q5/p4ppk/4p3/8/8/2P2PNp/PP1q3K/R4R2 w - - 1 37",
+            "eval": 9.5,
+            "averageLichessElo": 1561,
+            "link": "https://lichess.org/lmlqj701"
+        },
+        {
+            "id": "9VQR6XWY",
+            "fen": "r2q2k1/p5bN/4p1p1/2p1P3/4Q3/2P5/PP1N4/1K3r1R w - - 1 25",
+            "eval": 6.21,
+            "averageLichessElo": 1681,
+            "link": "https://lichess.org/69u3nvkp"
+        },
+        {
+            "id": "3JPLDR9W",
+            "fen": "8/8/8/p3p1pp/PbP3k1/6NP/5PK1/8 b - - 0 39",
+            "eval": 0.82,
+            "averageLichessElo": 1673,
+            "link": "https://lichess.org/n7dzcmo8"
+        },
+        {
+            "id": "GXPABTFH",
+            "fen": "r7/1nk5/1p4p1/1P2p1Pp/r1PpPp1P/pK1P1P2/N2R4/2R5 w - - 2 38",
+            "eval": -0.03,
+            "averageLichessElo": 1752,
+            "link": "https://lichess.org/na1rj4tq"
+        },
+        {
+            "id": "I404WASC",
+            "fen": "r3kn1r/pp1b1p2/2p1p2q/3pP3/2PP1P2/2P2BQ1/P2N3P/R5RK w kq - 6 22",
+            "eval": 0.71,
+            "averageLichessElo": 1543,
+            "link": "https://lichess.org/j8frrx9e"
+        },
+        {
+            "id": "UC461WZ8",
+            "fen": "3r2k1/2q2pp1/1p2p2p/pQ6/P2R4/1P5P/5PP1/6K1 w - - 2 28",
+            "eval": -0.83,
+            "averageLichessElo": 1798,
+            "link": "https://lichess.org/nbpy06tm"
+        },
+        {
+            "id": "89TQ9LSZ",
+            "fen": "4rrk1/3b2pp/4n3/p2p1p2/8/1PQ1PPq1/PB1NB3/R4R1K w - - 4 23",
+            "eval": 1.75,
+            "averageLichessElo": 1714,
+            "link": "https://lichess.org/re6mas0m"
+        },
+        {
+            "id": "G8K2Y5EZ",
+            "fen": "kQ5r/pp3p1p/b1n2pq1/1N6/2P5/1P6/PK3P1P/3R4 b - - 6 24",
+            "eval": 7.54,
+            "averageLichessElo": 1807,
+            "link": "https://lichess.org/dsb2hqv3"
+        },
+        {
+            "id": "JRC61B6M",
+            "fen": "1r6/6bk/3p1rnp/1BpPq3/P5R1/2N1P3/1P4Q1/2K4R b - - 0 31",
+            "eval": -0.03,
+            "averageLichessElo": 1820,
+            "link": "https://lichess.org/h4tyrln0"
+        },
+        {
+            "id": "WI3OYNQM",
+            "fen": "4Q3/3nkpp1/r1qN3p/p7/1p1n1P2/8/P2K2PP/6NR b - - 3 29",
+            "eval": 6.97,
+            "averageLichessElo": 1520,
+            "link": "https://lichess.org/xx1m8xma"
+        },
+        {
+            "id": "VGLGGYEI",
+            "fen": "8/1pR1k1p1/1p2pp1p/8/BP3P2/P3P2P/1r4b1/4K3 b - - 1 29",
+            "eval": 0.85,
+            "averageLichessElo": 1575,
+            "link": "https://lichess.org/juln1gu7"
+        },
+        {
+            "id": "BT4FT5JG",
+            "fen": "r4rk1/p3qppp/4p1n1/1p1pP3/2bP3N/2P3P1/2Q2P1P/RB2R1K1 b - - 1 21",
+            "eval": 1.66,
+            "averageLichessElo": 1762,
+            "link": "https://lichess.org/mdow6efp"
+        },
+        {
+            "id": "L8O5812N",
+            "fen": "8/6p1/3Qp2k/4P3/6pK/5P1P/q7/8 w - - 0 46",
+            "eval": 0.0,
+            "averageLichessElo": 1716,
+            "link": "https://lichess.org/hrha8oid"
+        },
+        {
+            "id": "89P1M8X6",
+            "fen": "8/6pk/5p1p/p2b4/3P3N/1P6/q5PP/4Q1K1 w - - 0 36",
+            "eval": -0.83,
+            "averageLichessElo": 1603,
+            "link": "https://lichess.org/fbvj77zd"
+        },
+        {
+            "id": "Q3XM40VG",
+            "fen": "6k1/p1qr1pb1/n5pp/2p5/2N1p1n1/1QP2N1P/PP1B1PP1/5RK1 w - - 0 23",
+            "eval": 1.25,
+            "averageLichessElo": 1715,
+            "link": "https://lichess.org/5vpg2oxa"
+        },
+        {
+            "id": "6VM0NUOF",
+            "fen": "6r1/p6k/P7/1pb2p1p/2P2p2/2BnP3/5P1P/R2R2K1 w - - 0 33",
+            "eval": 2.27,
+            "averageLichessElo": 1520,
+            "link": "https://lichess.org/20eo9e2c"
+        },
+        {
+            "id": "N6FUOK8P",
+            "fen": "3r1r1k/5p1p/p4PpQ/1p2p2n/4P3/PP3q2/2P3RP/6RK b - - 8 31",
+            "eval": 6.62,
+            "averageLichessElo": 1627,
+            "link": "https://lichess.org/23wsqosv"
+        },
+        {
+            "id": "G4HTS6BS",
+            "fen": "2kr2r1/1pp5/p7/2bq1p1p/2N2Pp1/PP4P1/1B2Q2P/R1R3K1 w - - 2 25",
+            "eval": 0.08,
+            "averageLichessElo": 1665,
+            "link": "https://lichess.org/if6cq7q1"
+        },
+        {
+            "id": "VZIZ8QVB",
+            "fen": "8/8/6k1/5p2/P1RR2p1/6PK/r6P/8 w - - 0 48",
+            "eval": 5.44,
+            "averageLichessElo": 1810,
+            "link": "https://lichess.org/e5z3tc23"
+        },
+        {
+            "id": "S95OQPM1",
+            "fen": "2kr4/ppp2p2/3pbRn1/4p3/4P3/3PPNpr/PPP3Kp/R4Q1B w - - 4 21",
+            "eval": 6.57,
+            "averageLichessElo": 1875,
+            "link": "https://lichess.org/2d0bm4t5"
+        },
+        {
+            "id": "WIYH12ND",
+            "fen": "8/pb4rk/1p1qPpp1/3B3p/8/1P6/PQ4PP/3R3K w - - 8 34",
+            "eval": 0.26,
+            "averageLichessElo": 1945,
+            "link": "https://lichess.org/osuyr8az"
+        },
+        {
+            "id": "JI4DQ93H",
+            "fen": "1kr5/p2R1p1p/1pr1pqp1/8/2P2P2/4PQP1/P6P/5RK1 b - - 6 26",
+            "eval": 0.44,
+            "averageLichessElo": 1537,
+            "link": "https://lichess.org/l3eoqlqc"
+        },
+        {
+            "id": "JWUPYMDY",
+            "fen": "1r4k1/p4ppp/2Q5/3np3/8/P4q1P/1P1B1P2/2KR4 b - - 0 27",
+            "eval": 2.02,
+            "averageLichessElo": 1569,
+            "link": "https://lichess.org/kkp5d9hu"
+        },
+        {
+            "id": "EGIFCWB4",
+            "fen": "3r2k1/6pp/1Q6/4Np2/8/P3P2P/1B2q1K1/8 w - - 0 34",
+            "eval": 0.0,
+            "averageLichessElo": 1563,
+            "link": "https://lichess.org/9nasqpk2"
+        },
+        {
+            "id": "OX5475Q8",
+            "fen": "r1bq1k2/pp2bp2/8/3pp2Q/4n2P/2PBB3/PP3Pr1/RN2K2R b KQ - 1 18",
+            "eval": -0.67,
+            "averageLichessElo": 1693,
+            "link": "https://lichess.org/1a9ppnz6"
+        },
+        {
+            "id": "FQ0F1SRV",
+            "fen": "r4k1r/p1b2pp1/3qb3/P2p3p/3Q4/3B1N2/3P1PPP/R4RK1 w - - 0 22",
+            "eval": 0.45,
+            "averageLichessElo": 1558,
+            "link": "https://lichess.org/x693ybap"
+        },
+        {
+            "id": "YJOBISSW",
+            "fen": "rn3k2/5ppp/b1p1p3/q7/P2Pp3/1P2PN2/5PPP/Q1RB2K1 w - - 0 18",
+            "eval": 3.67,
+            "averageLichessElo": 1693,
+            "link": "https://lichess.org/ol88gt2o"
+        },
+        {
+            "id": "QBU61E12",
+            "fen": "5r2/pbp2pkp/1p1r4/8/2B1PQ2/3P4/P1P1q1PP/5R1K w - - 0 21",
+            "eval": -0.17,
+            "averageLichessElo": 1620,
+            "link": "https://lichess.org/24cq9jq5"
+        },
+        {
+            "id": "7T5Y5O6M",
+            "fen": "1R6/P7/6pk/8/7P/5KP1/rp6/8 b - - 16 61",
+            "eval": 0.0,
+            "averageLichessElo": 1706,
+            "link": "https://lichess.org/ytpcrxq6"
+        },
+        {
+            "id": "HDXKQUHT",
+            "fen": "1R3br1/B1p1p1pp/2p1k3/3r1P2/6P1/3N4/P1n2K1P/8 b - - 0 30",
+            "eval": 4.96,
+            "averageLichessElo": 1713,
+            "link": "https://lichess.org/vevxitwa"
+        },
+        {
+            "id": "RX5X9YNT",
+            "fen": "1r1r2k1/Q1p2ppp/8/5bq1/3P3n/1P6/P3BPPP/3RNRK1 w - - 3 21",
+            "eval": 2.85,
+            "averageLichessElo": 1572,
+            "link": "https://lichess.org/kfzwfdko"
+        },
+        {
+            "id": "9PI9XIIX",
+            "fen": "8/2k5/8/P7/6RK/r7/5n2/8 w - - 3 61",
+            "eval": 0.0,
+            "averageLichessElo": 1951,
+            "link": "https://lichess.org/hm4t2oxr"
+        },
+        {
+            "id": "U5FZ2Y5A",
+            "fen": "6k1/p4p2/2p4p/Ppb1p1p1/4P3/1NP4P/P4qP1/3Q1NK1 w - - 0 25",
+            "eval": 0.0,
+            "averageLichessElo": 1723,
+            "link": "https://lichess.org/18uiwxfa"
+        },
+        {
+            "id": "05K73TOJ",
+            "fen": "8/8/R3k2p/3p2b1/3P4/1r2PK1P/6P1/8 b - - 11 45",
+            "eval": 0.98,
+            "averageLichessElo": 1920,
+            "link": "https://lichess.org/gl6isc98"
+        },
+        {
+            "id": "52D9A7UD",
+            "fen": "3r4/1r2b3/p2pBp2/1p1R1P1p/4Pkp1/2P3RP/PP3K2/8 b - - 0 34",
+            "eval": 0.0,
+            "averageLichessElo": 1790,
+            "link": "https://lichess.org/n816nfmp"
+        },
+        {
+            "id": "WBCJS6F8",
+            "fen": "r1b1k2r/pppqbppp/5n2/4N3/2Q5/2N5/PP3PPP/R1B2RK1 b kq - 0 12",
+            "eval": 0.46,
+            "averageLichessElo": 1903,
+            "link": "https://lichess.org/pgtrpu5m"
+        },
+        {
+            "id": "XPQCY8EQ",
+            "fen": "4rrk1/pb3ppp/1p6/4q3/4nN1R/3Q1BP1/PPP2P2/2K1R3 b - - 3 19",
+            "eval": 0.42,
+            "averageLichessElo": 1588,
+            "link": "https://lichess.org/scyarmwa"
+        },
+        {
+            "id": "CGRNUF7B",
+            "fen": "Q2R4/3p3k/4P3/3p2qp/8/6K1/6PP/8 w - - 0 41",
+            "eval": 3.62,
+            "averageLichessElo": 1579,
+            "link": "https://lichess.org/lb48o9ph"
+        },
+        {
+            "id": "KC0UVKRG",
+            "fen": "5Q2/2p2p1k/p1pp1P2/5p1p/2PP1Pq1/6P1/P1P1r2P/5RK1 b - - 3 27",
+            "eval": 0.35,
+            "averageLichessElo": 1690,
+            "link": "https://lichess.org/q40x7rgn"
+        },
+        {
+            "id": "VSUKHVRQ",
+            "fen": "6r1/pbp2p1k/1p1p4/3Pp2P/4P2B/2P2P2/P1P3rK/R4R2 w - - 1 26",
+            "eval": -0.87,
+            "averageLichessElo": 1613,
+            "link": "https://lichess.org/sse6tepr"
+        },
+        {
+            "id": "9CXGDDTE",
+            "fen": "r6q/ppp1kp2/3p1Q2/2b2B2/7B/8/PPP2P1P/4n2K b - - 0 22",
+            "eval": 9.07,
+            "averageLichessElo": 1730,
+            "link": "https://lichess.org/qb9sxd0l"
+        },
+        {
+            "id": "652345YX",
+            "fen": "8/6k1/1QP2p2/4p3/1P1pq3/P6P/4KPPn/2R1R3 w - - 5 41",
+            "eval": 7.61,
+            "averageLichessElo": 1793,
+            "link": "https://lichess.org/m98ktdwt"
+        },
+        {
+            "id": "H5FU7K95",
+            "fen": "rn1qk3/p5Qp/4pBp1/3p1p2/2P5/1P6/P4PPP/6K1 b - - 1 25",
+            "eval": 2.05,
+            "averageLichessElo": 1542,
+            "link": "https://lichess.org/cg4wcfwq"
+        },
+        {
+            "id": "VBCVF7UU",
+            "fen": "1r3r1k/1b2Qp1p/p1p3q1/1p1pP3/5P2/2P1P1R1/PP4PP/R5K1 b - - 8 22",
+            "eval": 1.61,
+            "averageLichessElo": 1543,
+            "link": "https://lichess.org/vgolmzdr"
+        },
+        {
+            "id": "Q9P4A7QL",
+            "fen": "4r2k/1p3Qpp/2b5/8/6q1/5N2/P5PP/5R1K w - - 0 27",
+            "eval": -0.23,
+            "averageLichessElo": 1573,
+            "link": "https://lichess.org/sof187fy"
+        },
+        {
+            "id": "MFAP6GDR",
+            "fen": "5k2/pp3p1p/4p2P/4P1K1/1P4P1/P5Q1/3q4/4R3 w - - 1 45",
+            "eval": 5.92,
+            "averageLichessElo": 1731,
+            "link": "https://lichess.org/t9mkaxeg"
+        },
+        {
+            "id": "ZO95FJDO",
+            "fen": "5r1k/7p/2pq3P/3p1p2/1p6/pP4R1/P1P5/1K4R1 b - - 3 39",
+            "eval": 6.42,
+            "averageLichessElo": 1518,
+            "link": "https://lichess.org/n09gde4g"
+        },
+        {
+            "id": "ZAKQC23X",
+            "fen": "r1b2q2/pp4pp/4p3/2k5/2B5/2P3P1/P1P3PP/R1B4K w - - 1 23",
+            "eval": -0.33,
+            "averageLichessElo": 1780,
+            "link": "https://lichess.org/nxeztu97"
+        },
+        {
+            "id": "GPYGWXR7",
+            "fen": "5rk1/1bq3pp/pp2Pp2/2p4Q/2Np4/3P2b1/PP1P2P1/R1B4K b - - 0 25",
+            "eval": 6.28,
+            "averageLichessElo": 1780,
+            "link": "https://lichess.org/xqtgt50j"
+        },
+        {
+            "id": "T39SSC4P",
+            "fen": "r3r1k1/ppb1q1pp/2p5/2Pp4/1P1QN3/P3PR2/1B4PP/4R1K1 b - - 0 21",
+            "eval": -0.27,
+            "averageLichessElo": 2134,
+            "link": "https://lichess.org/x60ta44z"
+        },
+        {
+            "id": "XZWDI3CT",
+            "fen": "r3k3/p4R2/3R2pN/2p1P3/8/7P/P5PK/2q5 b - - 6 31",
+            "eval": 2.83,
+            "averageLichessElo": 1952,
+            "link": "https://lichess.org/nuhj3cyt"
+        },
+        {
+            "id": "WLZZLMLI",
+            "fen": "r1b2rk1/pp3ppp/4pqn1/2b5/2P5/1PN2BP1/PB3P1P/R2QK2R w KQ - 1 14",
+            "eval": 1.47,
+            "averageLichessElo": 1957,
+            "link": "https://lichess.org/bqzm1awa"
+        },
+        {
+            "id": "Y5NJBO6H",
+            "fen": "2r5/6pp/5pk1/6b1/2NRP3/2RK4/r4PPP/8 w - - 5 34",
+            "eval": 0.46,
+            "averageLichessElo": 1972,
+            "link": "https://lichess.org/1u9vskb6"
+        },
+        {
+            "id": "Y5NYQ28E",
+            "fen": "r1bq1rk1/pp3pnp/3p2pB/3pp3/2P5/3B4/PQP2PPP/R4RK1 b - - 0 15",
+            "eval": 1.99,
+            "averageLichessElo": 1684,
+            "link": "https://lichess.org/0dmf22on"
+        },
+        {
+            "id": "CWIGGYWQ",
+            "fen": "3q2k1/2p2pp1/pp2p2p/2p1P3/7n/5Q1N/PP3PPP/RNB3K1 w - - 2 20",
+            "eval": 7.62,
+            "averageLichessElo": 1569,
+            "link": "https://lichess.org/nfcq6943"
+        },
+        {
+            "id": "BBG5NCAA",
+            "fen": "R7/p3r2p/6p1/2p2r1k/5P1P/4PK2/8/3R4 b - - 6 48",
+            "eval": 0.18,
+            "averageLichessElo": 1852,
+            "link": "https://lichess.org/e0k5y1eg"
+        },
+        {
+            "id": "56IZD3C3",
+            "fen": "5rk1/5p1p/4p1p1/4Q1PP/1P3P2/2P5/2q5/2nRK3 w - - 1 35",
+            "eval": 4.29,
+            "averageLichessElo": 1610,
+            "link": "https://lichess.org/lz71hiju"
+        },
+        {
+            "id": "6431ZVR2",
+            "fen": "r1b1r3/2kq4/p4R2/Q1p5/3pp3/8/PPP3PP/R5K1 b - - 1 25",
+            "eval": 2.25,
+            "averageLichessElo": 1897,
+            "link": "https://lichess.org/wu1ac0gp"
+        },
+        {
+            "id": "9FUQ904T",
+            "fen": "1bkr3r/1p3pp1/p2q1n2/2pp4/P6p/1PN1PQPP/1B1P1P2/2R2RK1 w - - 0 18",
+            "eval": -0.07,
+            "averageLichessElo": 1503,
+            "link": "https://lichess.org/uruxem83"
+        },
+        {
+            "id": "NA13TLER",
+            "fen": "rn1k1bnr/pbpp2q1/1p6/5p2/2P2PB1/3P3P/PP4PN/RNBQ1RK1 w - - 0 13",
+            "eval": 0.0,
+            "averageLichessElo": 1637,
+            "link": "https://lichess.org/shzwrm6z"
+        },
+        {
+            "id": "NX8U1GNB",
+            "fen": "r1bq1r2/3p1pk1/2n3pp/p1b1p3/Pp2P1N1/1B4N1/1PPQ1PPP/R4RK1 b - - 3 19",
+            "eval": 1.27,
+            "averageLichessElo": 1598,
+            "link": "https://lichess.org/v7z7v0pb"
+        },
+        {
+            "id": "5JPS33W7",
+            "fen": "6k1/1b2bppp/2q1pn2/4B3/1p2B3/5PQ1/1P1r2PP/4R1K1 b - - 3 25",
+            "eval": 6.04,
+            "averageLichessElo": 1753,
+            "link": "https://lichess.org/ddv5g2m1"
+        },
+        {
+            "id": "N4MAR612",
+            "fen": "r1b4k/1pp1q2n/p1nb2r1/3N1pN1/3P3Q/P2B3P/1PP2P2/2KR2R1 b - - 5 23",
+            "eval": 0.45,
+            "averageLichessElo": 1784,
+            "link": "https://lichess.org/jvgv8r0c"
+        },
+        {
+            "id": "0430R29K",
+            "fen": "2r3k1/7p/bnB1N1p1/3p4/8/pP6/P5PP/5RK1 b - - 4 27",
+            "eval": 5.96,
+            "averageLichessElo": 1676,
+            "link": "https://lichess.org/rz0u5za5"
+        },
+        {
+            "id": "6CK55TM9",
+            "fen": "3r4/1p3kp1/p4p1p/1q6/3P4/PK3P2/P2Q2PP/3R4 w - - 10 29",
+            "eval": 0.07,
+            "averageLichessElo": 1583,
+            "link": "https://lichess.org/bptqedxu"
+        },
+        {
+            "id": "3S4CITGL",
+            "fen": "Rn1r4/5kpp/3qbn2/1Q2p3/8/8/3BNPPP/4K2R w K - 1 19",
+            "eval": 1.8,
+            "averageLichessElo": 1668,
+            "link": "https://lichess.org/25fsgdhq"
+        },
+        {
+            "id": "SJ8EX6VR",
+            "fen": "6k1/5p1p/2bBp1p1/p3P3/P1pPq3/2P5/5QPP/R5K1 w - - 3 30",
+            "eval": 6.0,
+            "averageLichessElo": 1527,
+            "link": "https://lichess.org/u7e28j7o"
+        },
+        {
+            "id": "B8EPYY2N",
+            "fen": "5rk1/5qp1/8/3b2RP/8/3p1P2/1Q4P1/6K1 b - - 0 37",
+            "eval": 3.29,
+            "averageLichessElo": 1720,
+            "link": "https://lichess.org/h1z8z6xe"
+        },
+        {
+            "id": "U8ETWJ9Y",
+            "fen": "8/3QN3/b3p3/2Rp1p2/1k1P4/8/5q1K/8 w - - 2 43",
+            "eval": 0.0,
+            "averageLichessElo": 1532,
+            "link": "https://lichess.org/fxa5lsg6"
+        },
+        {
+            "id": "0QGAJWVV",
+            "fen": "r2q1rk1/pbpp1p2/1pn1p1Pp/5nN1/8/1P1P1NP1/P1P1PPB1/Q3K2R b K - 0 13",
+            "eval": 4.71,
+            "averageLichessElo": 1500,
+            "link": "https://lichess.org/nc7x01v1"
+        },
+        {
+            "id": "2LRI9KSA",
+            "fen": "4r3/2P3kp/PB4p1/5p2/8/8/R4PPP/3R2K1 w - - 2 40",
+            "eval": 14.62,
+            "averageLichessElo": 1731,
+            "link": "https://lichess.org/wwzqw1ht"
+        },
+        {
+            "id": "XY9RUB33",
+            "fen": "r4r2/p1q2k2/3p1npQ/4pb2/1p1n4/2NP1P2/PPP3P1/2KR1BNR w - - 2 22",
+            "eval": 2.56,
+            "averageLichessElo": 1641,
+            "link": "https://lichess.org/hc66jmel"
+        },
+        {
+            "id": "8TWA99SW",
+            "fen": "5rk1/5ppp/5q2/2p1PN2/p5Q1/8/1rP3PP/5R1K b - - 0 27",
+            "eval": 2.62,
+            "averageLichessElo": 1667,
+            "link": "https://lichess.org/u4my81h0"
+        },
+        {
+            "id": "SAO3NRIP",
+            "fen": "5k2/1pp3p1/p3p3/2PpP3/P2Pb2q/1P2Q1p1/7N/2B3K1 w - - 0 33",
+            "eval": -0.96,
+            "averageLichessElo": 1759,
+            "link": "https://lichess.org/5tdrzhex"
+        },
+        {
+            "id": "DIGFAQTL",
+            "fen": "r4rk1/ppb2ppp/2p3b1/2P5/1PNPp1nq/P1N4P/5PK1/R1BQ1R2 w - - 0 19",
+            "eval": 2.19,
+            "averageLichessElo": 1871,
+            "link": "https://lichess.org/bcpfdnx2"
+        },
+        {
+            "id": "B079EFFH",
+            "fen": "2kr4/pp2R1p1/1qp2pp1/r7/3n1QP1/2N4P/PP3P2/2KR4 b - - 1 28",
+            "eval": 3.69,
+            "averageLichessElo": 1630,
+            "link": "https://lichess.org/m8ovbig4"
+        },
+        {
+            "id": "MDZ6PY5B",
+            "fen": "2k4r/ppp1p3/4Pn2/3q4/6p1/P5p1/3Q2RP/5R1K w - - 0 28",
+            "eval": -0.91,
+            "averageLichessElo": 1600,
+            "link": "https://lichess.org/f9dm2kb8"
+        },
+        {
+            "id": "XBSVOBT7",
+            "fen": "5rk1/pb3q1p/1p4pP/8/3Q4/5R2/r4PP1/5RK1 b - - 1 35",
+            "eval": 5.65,
+            "averageLichessElo": 1571,
+            "link": "https://lichess.org/lgjzl7kj"
+        },
+        {
+            "id": "2MT8PMNC",
+            "fen": "6rk/p1b4p/1p1p4/1qpQp3/8/6P1/5P1P/R4R1K w - - 2 37",
+            "eval": 2.64,
+            "averageLichessElo": 1715,
+            "link": "https://lichess.org/x23irg7y"
+        },
+        {
+            "id": "HHQLHHHG",
+            "fen": "7k/pp4rp/2p2Qp1/2P3r1/1P2p3/P2p1q2/3R1P1P/3R2K1 w - - 4 32",
+            "eval": 3.42,
+            "averageLichessElo": 1690,
+            "link": "https://lichess.org/y3bq7c3j"
+        },
+        {
+            "id": "V9QJ6TTE",
+            "fen": "r4rk1/p3q2p/1p6/n1ppBpNQ/1bP5/3B4/P5PP/R5K1 b - - 5 25",
+            "eval": 3.72,
+            "averageLichessElo": 1984,
+            "link": "https://lichess.org/gt3qyf3r"
+        },
+        {
+            "id": "Y6DU04S2",
+            "fen": "r4rk1/p4p1p/2pq2bQ/1pR2N2/1P1b4/3P3P/1PP2PP1/R5K1 b - - 2 24",
+            "eval": 1.64,
+            "averageLichessElo": 1777,
+            "link": "https://lichess.org/fdifigie"
+        },
+        {
+            "id": "YG2DIHAZ",
+            "fen": "r1b2rk1/pp3pp1/2p2n1p/3pq3/B3P3/2P2Q2/PP3PPP/R1B1R1K1 w - - 0 15",
+            "eval": 0.0,
+            "averageLichessElo": 1674,
+            "link": "https://lichess.org/2lsfmtml"
+        },
+        {
+            "id": "5RLY2QVT",
+            "fen": "7r/p2pk2r/1p2pp2/3n2p1/4R3/3P1Q2/PPP2P1P/R6K w - - 3 31",
+            "eval": 3.27,
+            "averageLichessElo": 1560,
+            "link": "https://lichess.org/gs53923t"
+        },
+        {
+            "id": "GCBSJX6Q",
+            "fen": "r2r2k1/pb3ppp/1p6/n7/2pN1n2/2P5/PPBN1PPP/R4RK1 w - - 3 19",
+            "eval": -0.13,
+            "averageLichessElo": 1613,
+            "link": "https://lichess.org/xh4h6t22"
+        },
+        {
+            "id": "1SR0BYBQ",
+            "fen": "rn1qk2r/1bp1bpp1/pp2p2p/7Q/3PP3/6PN/PPP3BP/R1B2RK1 b kq - 2 11",
+            "eval": 1.32,
+            "averageLichessElo": 1690,
+            "link": "https://lichess.org/5u5ye9th"
+        },
+        {
+            "id": "QMJJDY5F",
+            "fen": "r1q2rk1/2p1bppp/2n1pn2/p7/1p1P4/3QPN2/PPBB1PPP/RN3K2 b - - 2 17",
+            "eval": 2.31,
+            "averageLichessElo": 1547,
+            "link": "https://lichess.org/fcqzqqmt"
+        },
+        {
+            "id": "KVONSA9Y",
+            "fen": "7r/pb3k1r/1pp1p3/3p1p1q/2PPnPp1/1P1B2P1/PBR1Q2P/5RK1 w - - 13 36",
+            "eval": 0.34,
+            "averageLichessElo": 1590,
+            "link": "https://lichess.org/6sdto9o2"
+        },
+        {
+            "id": "JT9U56ON",
+            "fen": "3r3r/2pkq3/1p1p4/1Q1B1p2/PP2pp2/5bp1/RKP4n/1N2R3 b - - 2 33",
+            "eval": 0.0,
+            "averageLichessElo": 1736,
+            "link": "https://lichess.org/z887su5l"
+        },
+        {
+            "id": "ZSTESZ87",
+            "fen": "r4rk1/3qbppp/p7/1p1p2N1/3pnB2/3Q3P/PPPNRPP1/4R1K1 b - - 4 19",
+            "eval": -0.39,
+            "averageLichessElo": 1669,
+            "link": "https://lichess.org/vcv6m3wz"
+        },
+        {
+            "id": "4LPW1ED2",
+            "fen": "3k2r1/pp4r1/1b1Q4/5q2/3p1P2/P7/1P1B4/K2RR3 b - - 0 30",
+            "eval": -0.71,
+            "averageLichessElo": 1767,
+            "link": "https://lichess.org/5nwym2f5"
+        },
+        {
+            "id": "HLYYJ4V0",
+            "fen": "8/pRb1rkpp/2p2p2/2P5/P2P2Q1/3qB3/5PP1/6K1 w - - 12 40",
+            "eval": 1.38,
+            "averageLichessElo": 1754,
+            "link": "https://lichess.org/9qdwls5i"
+        },
+        {
+            "id": "ZY81VOY7",
+            "fen": "Bn2k1r1/p2p2q1/1pp1p2n/4Pp1p/3P3P/2P1Rp2/PP1N3P/R1B1Q1K1 w - - 0 18",
+            "eval": 2.96,
+            "averageLichessElo": 1900,
+            "link": "https://lichess.org/rkaotos3"
+        },
+        {
+            "id": "MAO5HEV1",
+            "fen": "3r4/ppp1ppk1/6p1/4q3/5N2/1P4Q1/P1PK1P2/3R4 w - - 1 23",
+            "eval": 2.16,
+            "averageLichessElo": 1541,
+            "link": "https://lichess.org/ampotgwn"
+        },
+        {
+            "id": "84WAK217",
+            "fen": "2r2bk1/6pp/pp6/8/2PBQNnq/7P/PP3Pp1/2RR2K1 w - - 1 30",
+            "eval": 13.94,
+            "averageLichessElo": 1756,
+            "link": "https://lichess.org/imv6l73b"
+        },
+        {
+            "id": "M8G4Q7S2",
+            "fen": "r3r1k1/pp3ppp/2p1n3/3bB1q1/6Q1/8/PPB2PPP/3RR1K1 w - - 1 20",
+            "eval": -0.14,
+            "averageLichessElo": 1504,
+            "link": "https://lichess.org/40dz0eb4"
+        },
+        {
+            "id": "ETEBAPTR",
+            "fen": "6rk/2R1R1p1/1Q3p1p/4q3/1P2b3/4P3/5PPK/r7 w - - 4 43",
+            "eval": 5.02,
+            "averageLichessElo": 1762,
+            "link": "https://lichess.org/wp6xo1vk"
+        },
+        {
+            "id": "3B8MUOE0",
+            "fen": "r1b2b1r/1pp4p/1p6/k4Q2/2B5/2P1B3/P1P3PP/R6K b - - 1 21",
+            "eval": 4.3,
+            "averageLichessElo": 1528,
+            "link": "https://lichess.org/8lvo6cbl"
+        },
+        {
+            "id": "OF96SVDL",
+            "fen": "6k1/p5p1/6R1/3pPpP1/P3nP1P/4P1K1/1r6/7R w - - 5 39",
+            "eval": 0.0,
+            "averageLichessElo": 1780,
+            "link": "https://lichess.org/0i1oa18m"
+        },
+        {
+            "id": "XF3AXFV4",
+            "fen": "r4r1k/ppp3pp/3p2q1/8/8/2P2n1b/PP2BPPP/R2Q1RK1 w - - 0 19",
+            "eval": -0.05,
+            "averageLichessElo": 1785,
+            "link": "https://lichess.org/y45mq5fe"
+        },
+        {
+            "id": "PPE22BM5",
+            "fen": "q3b1k1/5ppp/1n6/1P2p3/1Q2P3/1N5P/5PP1/3B2K1 b - - 0 31",
+            "eval": -0.96,
+            "averageLichessElo": 1724,
+            "link": "https://lichess.org/qrr6dl7o"
+        },
+        {
+            "id": "5CHX2YTQ",
+            "fen": "r3kb1r/pp2ppp1/2nq3p/1Q1P4/8/2P4P/P4PP1/R1B2K1R w kq - 3 16",
+            "eval": -0.26,
+            "averageLichessElo": 1810,
+            "link": "https://lichess.org/dbg2gss9"
+        },
+        {
+            "id": "BL4EQ05A",
+            "fen": "6k1/3p1p2/r3pBp1/3pP2p/pnb3P1/7R/1P3P1P/4N1K1 b - - 0 29",
+            "eval": 2.0,
+            "averageLichessElo": 1744,
+            "link": "https://lichess.org/lqdjjlqq"
+        },
+        {
+            "id": "M32RH1N4",
+            "fen": "r1b1kb1r/2ppnppp/1p4q1/p3P3/5B2/2NQ4/PPP2PPP/2KR1B1R b kq - 1 10",
+            "eval": -0.74,
+            "averageLichessElo": 1958,
+            "link": "https://lichess.org/9seol2q1"
+        },
+        {
+            "id": "XV0IS84Y",
+            "fen": "8/5pk1/1R2p1p1/4K1P1/1r3P2/8/1r6/3R4 w - - 0 42",
+            "eval": -0.01,
+            "averageLichessElo": 1599,
+            "link": "https://lichess.org/l9temt9c"
+        },
+        {
+            "id": "I5VATSN6",
+            "fen": "4k2r/ppr2p1p/6p1/4p1B1/8/2qb1QP1/P4K1P/3R1R2 b k - 1 21",
+            "eval": 3.37,
+            "averageLichessElo": 1598,
+            "link": "https://lichess.org/s287zkq1"
+        },
+        {
+            "id": "GBCPSAGE",
+            "fen": "r2q1b1r/pppk1Bpp/2n2n2/6B1/3P2b1/1Q2PP2/PP3P1P/RN2K2R b KQ - 0 10",
+            "eval": 1.29,
+            "averageLichessElo": 1500,
+            "link": "https://lichess.org/z4pgead2"
+        },
+        {
+            "id": "7WAD360Q",
+            "fen": "r4rk1/p4ppp/8/2q5/3pb3/8/PPPQ1PPP/2KR1B1R w - - 0 15",
+            "eval": 1.11,
+            "averageLichessElo": 1543,
+            "link": "https://lichess.org/2w6im64r"
+        },
+        {
+            "id": "LBOLO6B9",
+            "fen": "r4rk1/ppq2pp1/2pb1nnp/3p4/3P4/2PB1P1P/PP3PQ1/RNB3RK b - - 1 16",
+            "eval": 1.46,
+            "averageLichessElo": 1563,
+            "link": "https://lichess.org/svojpagx"
+        },
+        {
+            "id": "7Q23BGIT",
+            "fen": "1r3rk1/p1p3pp/1p1p1p2/7q/P1PnP1n1/5NP1/3B1PB1/1R1Q1RK1 w - - 0 19",
+            "eval": 3.48,
+            "averageLichessElo": 1621,
+            "link": "https://lichess.org/6xta4bv9"
+        },
+        {
+            "id": "FU1HJZZE",
+            "fen": "rnbq1rk1/pp2bppp/5n2/3N4/3Q1PP1/1P3N2/PBP4P/R3KB1R b KQ - 0 12",
+            "eval": 4.36,
+            "averageLichessElo": 1550,
+            "link": "https://lichess.org/yfvn4nqp"
+        },
+        {
+            "id": "X1G86B7M",
+            "fen": "r4rk1/5ppp/p1q5/1pb1p3/3n4/P1P4P/BP4KN/R1BQ1R2 w - - 1 18",
+            "eval": 1.36,
+            "averageLichessElo": 1536,
+            "link": "https://lichess.org/vgj19clb"
+        },
+        {
+            "id": "P9X0I00E",
+            "fen": "8/5N2/8/4P3/8/5kP1/7K/4r3 w - - 1 47",
+            "eval": -0.21,
+            "averageLichessElo": 1756,
+            "link": "https://lichess.org/5myjoy4y"
+        },
+        {
+            "id": "EPN1Y3AJ",
+            "fen": "5k1r/4rp2/p1p2b2/1pPp3P/3PqP2/P4R2/6QP/6RK b - - 2 35",
+            "eval": 5.51,
+            "averageLichessElo": 2086,
+            "link": "https://lichess.org/455oq909"
+        },
+        {
+            "id": "BT8UM0N5",
+            "fen": "r1br2k1/pp3ppp/4p3/8/Q1BNq3/8/PP3PPP/R4K1R b - - 0 15",
+            "eval": 3.78,
+            "averageLichessElo": 1546,
+            "link": "https://lichess.org/1k5uquy2"
+        },
+        {
+            "id": "HB4Y2W7A",
+            "fen": "5r1k/3RQ2p/5r1n/4p3/PP2P3/6pP/6PK/8 w - - 0 37",
+            "eval": 6.18,
+            "averageLichessElo": 1641,
+            "link": "https://lichess.org/ms07tko2"
+        },
+        {
+            "id": "V1N4BRFC",
+            "fen": "r3r1nk/1b3q1p/p5P1/1pbp1B2/7Q/P1N2P2/1PP4P/3R1R1K b - - 0 26",
+            "eval": 2.53,
+            "averageLichessElo": 1790,
+            "link": "https://lichess.org/dyxodaj9"
+        },
+        {
+            "id": "W54OYT73",
+            "fen": "r5k1/2p2ppp/3p4/2r5/p7/N6P/R4PP1/1R4K1 b - - 5 30",
+            "eval": -0.79,
+            "averageLichessElo": 1506,
+            "link": "https://lichess.org/6rgkt765"
+        },
+        {
+            "id": "ZTFKKA1R",
+            "fen": "8/4K3/8/6p1/5qk1/8/4Q3/8 b - - 23 70",
+            "eval": 0.28,
+            "averageLichessElo": 1787,
+            "link": "https://lichess.org/358e1nc9"
+        },
+        {
+            "id": "9M6FQDKI",
+            "fen": "r2qr1k1/1pp1bppp/p2p1n2/3N4/3QP3/1P6/PBP2PPP/R4RK1 b - - 4 13",
+            "eval": -0.55,
+            "averageLichessElo": 1765,
+            "link": "https://lichess.org/1pljqjpr"
+        },
+        {
+            "id": "USWVEZB5",
+            "fen": "2q2k2/8/5K1p/3R4/pp2B1P1/8/8/8 b - - 0 57",
+            "eval": 6.68,
+            "averageLichessElo": 1679,
+            "link": "https://lichess.org/ranmmehb"
+        },
+        {
+            "id": "WHEVZHA5",
+            "fen": "r3k2r/pbp3q1/1p2Pn2/5Q1p/2P4P/2N2p2/PP3P1P/R1B2RK1 w kq - 0 19",
+            "eval": 2.78,
+            "averageLichessElo": 1712,
+            "link": "https://lichess.org/b4vo3klm"
+        },
+        {
+            "id": "BBV59L0G",
+            "fen": "r7/pp4pk/2PB4/4Pp1q/P1p2P2/2P3Q1/2P2K1r/R4R2 w - - 3 31",
+            "eval": 2.49,
+            "averageLichessElo": 1856,
+            "link": "https://lichess.org/j6pta8pq"
+        },
+        {
+            "id": "A5X8FUBC",
+            "fen": "1r2R2k/1p3Bp1/2nR3p/8/8/2r2P1P/5P2/6K1 b - - 2 25",
+            "eval": 0.11,
+            "averageLichessElo": 1502,
+            "link": "https://lichess.org/yt93vk3o"
+        },
+        {
+            "id": "60H0LP6X",
+            "fen": "3r4/pp3kQ1/2p4p/7N/3n4/P3p2K/1q6/8 b - - 0 40",
+            "eval": 6.5,
+            "averageLichessElo": 1630,
+            "link": "https://lichess.org/9whmylpq"
+        },
+        {
+            "id": "8AORTL1N",
+            "fen": "6k1/1R4p1/5p2/1p6/1B6/2P4P/r4r2/3R1K2 w - - 2 38",
+            "eval": 0.0,
+            "averageLichessElo": 1835,
+            "link": "https://lichess.org/xrew8yxy"
+        },
+        {
+            "id": "BVFY06VS",
+            "fen": "5rk1/pp3ppp/5b2/4q3/8/1Qr1R3/PPP2PPP/1K3B1R w - - 0 18",
+            "eval": 5.8,
+            "averageLichessElo": 1845,
+            "link": "https://lichess.org/vetq6qqb"
+        },
+        {
+            "id": "RZDXXJJY",
+            "fen": "6k1/1p3pp1/p6p/5r2/2bP4/P3R1PP/1P6/3RK3 w - - 13 36",
+            "eval": 3.26,
+            "averageLichessElo": 1769,
+            "link": "https://lichess.org/rhwfhvri"
+        },
+        {
+            "id": "QXK0XOP9",
+            "fen": "5r2/1K4pk/p1Rp2np/3Pp3/4P3/7Q/Pr6/8 w - - 0 43",
+            "eval": 0.14,
+            "averageLichessElo": 1590,
+            "link": "https://lichess.org/r93t8fif"
+        },
+        {
+            "id": "JTZW3HT8",
+            "fen": "3r4/1q4k1/4pR1p/3nP1pQ/8/1p4P1/2r2PP1/5RK1 b - - 3 33",
+            "eval": 6.22,
+            "averageLichessElo": 1748,
+            "link": "https://lichess.org/kazl3kai"
+        },
+        {
+            "id": "IXWKIIQF",
+            "fen": "1r6/1P6/1R3P2/5kP1/7K/8/8/8 w - - 7 62",
+            "eval": 34.7,
+            "averageLichessElo": 1656,
+            "link": "https://lichess.org/1o2o9rjk"
+        },
+        {
+            "id": "FKH27QO4",
+            "fen": "2kr1b1r/ppp2p1p/2p1q3/4Pp2/8/2N3QP/bPPB1PP1/2KR3R w - - 0 17",
+            "eval": -0.48,
+            "averageLichessElo": 1576,
+            "link": "https://lichess.org/5t8abx6v"
+        },
+        {
+            "id": "7FOBMJHW",
+            "fen": "r1bq1rk1/pppnb1p1/4pp2/3pP2Q/5P2/4P2R/PPP3PP/RNB3K1 b - - 1 12",
+            "eval": 1.05,
+            "averageLichessElo": 1500,
+            "link": "https://lichess.org/w4rcl7mj"
+        },
+        {
+            "id": "PNVA99QQ",
+            "fen": "4r1k1/p3rpb1/2p4p/1pP1q1pP/3N4/1B6/PPPQ2P1/2KR1R2 w - - 5 25",
+            "eval": 5.57,
+            "averageLichessElo": 1554,
+            "link": "https://lichess.org/ontdx1w4"
+        },
+        {
+            "id": "HA4E8KNT",
+            "fen": "r1b2rk1/ppp2ppp/5n2/8/7P/2QBqP2/PP1N4/1K1R2R1 b - - 0 24",
+            "eval": 1.11,
+            "averageLichessElo": 1672,
+            "link": "https://lichess.org/f91jpzl4"
+        },
+        {
+            "id": "LLEIHXOJ",
+            "fen": "4r1k1/ppp4p/6p1/4p3/8/2P1B3/PP3P1q/R3QK2 w - - 0 32",
+            "eval": 2.74,
+            "averageLichessElo": 1507,
+            "link": "https://lichess.org/tnyl7h8j"
+        },
+        {
+            "id": "Y7FWO3X4",
+            "fen": "r1b1kbnr/p2ppppp/B1p5/2N1q3/8/2P1B3/P4PPP/R2QK2R b KQkq - 3 11",
+            "eval": 3.15,
+            "averageLichessElo": 1667,
+            "link": "https://lichess.org/i8qvv619"
+        },
+        {
+            "id": "J28O32A6",
+            "fen": "r2q1rk1/1bpnbpp1/p3p2p/1p6/3PnP2/P1N1PN2/1PQB2PP/RB3RK1 b - - 3 14",
+            "eval": 0.4,
+            "averageLichessElo": 1678,
+            "link": "https://lichess.org/me6wlphl"
+        },
+        {
+            "id": "ERDEKFNC",
+            "fen": "4brk1/6p1/2p1p2p/1p2Pq2/1P2Q1N1/3R2PK/4B2P/8 w - - 11 38",
+            "eval": 3.35,
+            "averageLichessElo": 1891,
+            "link": "https://lichess.org/2y6i96y6"
+        },
+        {
+            "id": "5JOXZPXX",
+            "fen": "r1bq1b1r/ppp2Qpp/3k4/4p3/8/P1N5/BP1P1PPP/n1BK3R b - - 4 13",
+            "eval": 1.16,
+            "averageLichessElo": 1628,
+            "link": "https://lichess.org/xxgqj4pd"
+        },
+        {
+            "id": "MMGSQIIA",
+            "fen": "rn2kbr1/pbp3q1/1p2p3/6Np/2P2n2/3BBP2/PPQ1N1PP/R4RK1 w q - 1 17",
+            "eval": 5.67,
+            "averageLichessElo": 1695,
+            "link": "https://lichess.org/humd61ip"
+        },
+        {
+            "id": "BOTG36DQ",
+            "fen": "6k1/5pp1/2q1p1bp/1p1pQ3/pPr4P/P1P1R1R1/6P1/6K1 b - - 0 31",
+            "eval": 2.9,
+            "averageLichessElo": 1919,
+            "link": "https://lichess.org/5vkm1fst"
+        },
+        {
+            "id": "IEOWOTDY",
+            "fen": "r4rk1/pp3ppp/8/4qNQ1/2b5/5P2/P1P3PP/1R2R2K b - - 8 21",
+            "eval": -0.07,
+            "averageLichessElo": 1605,
+            "link": "https://lichess.org/grfblee5"
+        },
+        {
+            "id": "GQ8C0S1I",
+            "fen": "2kr3r/ppp1npbp/6p1/n7/6P1/1QP1Pq1P/PP3P2/RNB1KBR1 w Q - 3 14",
+            "eval": 0.66,
+            "averageLichessElo": 1506,
+            "link": "https://lichess.org/k4s72wfm"
+        },
+        {
+            "id": "CAAJ8QIP",
+            "fen": "6r1/1p1kr3/p1pp2PK/P3p3/1PP1P3/3P1P2/5R2/6R1 w - - 2 38",
+            "eval": 5.56,
+            "averageLichessElo": 1551,
+            "link": "https://lichess.org/r59gtz35"
+        },
+        {
+            "id": "2DWWEG19",
+            "fen": "r4rk1/p5pb/2p4q/2p1p2p/2PpP2p/3P1P2/PPN3Q1/R5RK b - - 2 24",
+            "eval": 1.53,
+            "averageLichessElo": 1576,
+            "link": "https://lichess.org/3tw7kjp5"
+        },
+        {
+            "id": "XW320HDH",
+            "fen": "1R6/4q1bk/4r1pp/3Qp3/4P3/6P1/5P1P/6K1 b - - 5 36",
+            "eval": 2.6,
+            "averageLichessElo": 1787,
+            "link": "https://lichess.org/a6aqxrl7"
+        },
+        {
+            "id": "4RG38WOW",
+            "fen": "r3r3/pQ3p1k/2Ppq3/6B1/4n1KP/5N2/P5B1/R6R w - - 1 26",
+            "eval": 4.84,
+            "averageLichessElo": 1508,
+            "link": "https://lichess.org/l7go8xj7"
+        },
+        {
+            "id": "5MLUCNWU",
+            "fen": "r1bqk2r/ppp1b2p/1n3p2/7Q/3p4/1B6/PP3PPP/RN2R1K1 b kq - 1 15",
+            "eval": -0.07,
+            "averageLichessElo": 1615,
+            "link": "https://lichess.org/lbmm5426"
+        },
+        {
+            "id": "V50BBAK1",
+            "fen": "RRQ3k1/3pb1p1/2p3np/3qP3/8/2P2r1P/2P3P1/7K b - - 0 26",
+            "eval": 4.25,
+            "averageLichessElo": 1795,
+            "link": "https://lichess.org/6yw6iz0u"
+        },
+        {
+            "id": "FWU74EPR",
+            "fen": "3Rr1k1/5ppp/p3q3/1p6/8/P7/1P6/K2R4 b - - 6 45",
+            "eval": 5.77,
+            "averageLichessElo": 1889,
+            "link": "https://lichess.org/sd13d25p"
+        },
+        {
+            "id": "0ZDB1MEZ",
+            "fen": "1k6/p6R/1p6/2b5/2N5/1P4P1/P1P1r1KP/4rR2 w - - 3 33",
+            "eval": 3.56,
+            "averageLichessElo": 1720,
+            "link": "https://lichess.org/jlo6659t"
+        },
+        {
+            "id": "MMJWHNCW",
+            "fen": "r3r1k1/ppq4p/2p2np1/3p2Q1/1P1P2n1/P1NP2N1/6PP/R4RK1 w - - 3 29",
+            "eval": 0.75,
+            "averageLichessElo": 1724,
+            "link": "https://lichess.org/qnchmgif"
+        },
+        {
+            "id": "WZJSN5OL",
+            "fen": "2r1r1k1/b1qR1pp1/2n2n1p/ppN5/8/1PQ2N1P/PB3PP1/2R3K1 b - - 1 22",
+            "eval": 0.92,
+            "averageLichessElo": 2082,
+            "link": "https://lichess.org/t3e5ttks"
+        },
+        {
+            "id": "NP22WH03",
+            "fen": "5rk1/5ppp/N4bq1/3Q4/B7/7b/r4PPP/3RR1K1 w - - 0 24",
+            "eval": 0.13,
+            "averageLichessElo": 1828,
+            "link": "https://lichess.org/gbstgq0e"
+        },
+        {
+            "id": "PYFJKKCK",
+            "fen": "r3k3/p1qb3r/4pp2/1Q2N3/3PP3/3B4/P4PPP/R4RK1 w q - 1 27",
+            "eval": 6.31,
+            "averageLichessElo": 1707,
+            "link": "https://lichess.org/ffbczh8h"
+        },
+        {
+            "id": "FCZ17JVA",
+            "fen": "r2qrnk1/p1p3pp/2pb1p2/3p4/3P2QP/2P1B3/PP3PP1/RN2R1K1 w - - 1 16",
+            "eval": 0.25,
+            "averageLichessElo": 1599,
+            "link": "https://lichess.org/r57pzs6i"
+        },
+        {
+            "id": "EBRGI5TZ",
+            "fen": "r1b1k2r/1pq1bppp/p1B2n2/2pp4/5P2/3P1N2/PPP1Q1PP/RNB1R1K1 b kq - 0 10",
+            "eval": -0.64,
+            "averageLichessElo": 1669,
+            "link": "https://lichess.org/ev3auw24"
+        },
+        {
+            "id": "7I3SDDVW",
+            "fen": "5rk1/ppp3pp/4p3/2b5/4P3/2NRnN2/PP4PP/7K w - - 2 20",
+            "eval": 0.0,
+            "averageLichessElo": 1505,
+            "link": "https://lichess.org/hylfafzp"
+        },
+        {
+            "id": "1W5RSRF0",
+            "fen": "r1b5/pp2nk2/2pp1QpB/q1n1p3/2P1P1B1/2N5/PP3PPP/R3K1NR b KQ - 1 16",
+            "eval": 1.87,
+            "averageLichessElo": 1577,
+            "link": "https://lichess.org/yayox3c2"
+        },
+        {
+            "id": "E7Y5RH2X",
+            "fen": "8/8/5k2/8/5KR1/4N1P1/3r1P2/8 w - - 1 49",
+            "eval": 6.86,
+            "averageLichessElo": 1507,
+            "link": "https://lichess.org/w18cy89r"
+        },
+        {
+            "id": "2U3RSJZQ",
+            "fen": "8/7p/1p4k1/p1b1R2p/2P5/1P3RPK/r7/8 w - - 2 53",
+            "eval": 3.56,
+            "averageLichessElo": 1519,
+            "link": "https://lichess.org/dko9xl88"
+        },
+        {
+            "id": "X0BT2AOM",
+            "fen": "3r1rk1/pb3ppp/1p2p3/8/3N2n1/2PBQPPq/PP5P/R3R1K1 w - - 1 21",
+            "eval": -0.52,
+            "averageLichessElo": 1813,
+            "link": "https://lichess.org/xx7tirao"
+        },
+        {
+            "id": "FF3ESRC3",
+            "fen": "r3r1k1/ppp2p1p/3p1B2/4nq2/7P/2P2P2/PPPK2Q1/4R3 b - - 0 21",
+            "eval": 6.28,
+            "averageLichessElo": 1580,
+            "link": "https://lichess.org/gnulp66m"
+        },
+        {
+            "id": "6U54B6XV",
+            "fen": "1r6/3bk3/8/1P1pPp1p/1K1P3P/5R2/5R2/8 w - - 1 49",
+            "eval": 4.66,
+            "averageLichessElo": 1506,
+            "link": "https://lichess.org/9d4tvaac"
+        },
+        {
+            "id": "CMQYKSUJ",
+            "fen": "r1b4k/ppq3pN/2n5/3B4/3P4/8/PP3rPb/R2QR2K b - - 0 18",
+            "eval": 3.25,
+            "averageLichessElo": 1591,
+            "link": "https://lichess.org/vv57s2m0"
+        },
+        {
+            "id": "ING13W09",
+            "fen": "3r1k1r/1b3p2/7p/p1bP1qPQ/2B5/1Pp3P1/6P1/R4R1K b - - 0 27",
+            "eval": 4.35,
+            "averageLichessElo": 1593,
+            "link": "https://lichess.org/ws51ttsj"
+        },
+        {
+            "id": "YE71RK0K",
+            "fen": "rn2k2B/p2p4/1p2p3/5pq1/3P4/2P4p/PP2Q1bP/RN3RK1 w q - 0 22",
+            "eval": 1.84,
+            "averageLichessElo": 1610,
+            "link": "https://lichess.org/v62ezcxy"
+        },
+        {
+            "id": "KFZ8D5M9",
+            "fen": "3r3r/1bpk1B2/p2b4/1p6/3P2p1/2P5/PP1NRPP1/R5K1 w - - 1 21",
+            "eval": 3.04,
+            "averageLichessElo": 1634,
+            "link": "https://lichess.org/c1nfp97v"
+        },
+        {
+            "id": "K356EFEZ",
+            "fen": "1r1q4/5p1p/1p1k3Q/p1p1p3/2PrB2P/3P4/4PP1K/5R2 b - - 7 30",
+            "eval": 2.35,
+            "averageLichessElo": 1683,
+            "link": "https://lichess.org/m03r84x8"
+        },
+        {
+            "id": "V9FJQ2T5",
+            "fen": "r2q1k1r/1pp1n3/p3p2p/1b1p3B/5Q2/2P4P/PP4P1/RN2K2R b KQ - 0 18",
+            "eval": 1.87,
+            "averageLichessElo": 1728,
+            "link": "https://lichess.org/r6fg9pcj"
+        },
+        {
+            "id": "5VYNCRP1",
+            "fen": "r3kr2/pbpp2b1/np2p1qp/8/2PP3B/P3QN2/1P3PPP/RN3RK1 w q - 2 15",
+            "eval": 1.76,
+            "averageLichessElo": 1917,
+            "link": "https://lichess.org/98e1ip3j"
+        },
+        {
+            "id": "Z13294I1",
+            "fen": "1r4r1/3k3p/3p2q1/p1pQ1p2/3p4/P2P3P/1P3PP1/4RRK1 w - - 0 25",
+            "eval": 3.34,
+            "averageLichessElo": 1848,
+            "link": "https://lichess.org/59w809pj"
+        },
+        {
+            "id": "7J8PO5KK",
+            "fen": "1r5r/Rp1kbq2/1PNpbn2/R3p1pp/5p2/1P2P3/1BPPQPPP/6K1 b - - 0 21",
+            "eval": -0.15,
+            "averageLichessElo": 1753,
+            "link": "https://lichess.org/yy0f6p25"
+        },
+        {
+            "id": "VJ0CT7P1",
+            "fen": "8/2R2pk1/8/2R3Kp/5P2/6r1/1r6/8 w - - 0 39",
+            "eval": 0.0,
+            "averageLichessElo": 1690,
+            "link": "https://lichess.org/tk7o2frv"
+        },
+        {
+            "id": "RTE90DQE",
+            "fen": "3r2k1/6p1/p2PRp1p/1pr2K2/8/7P/3R1PP1/8 w - - 11 38",
+            "eval": -0.89,
+            "averageLichessElo": 1560,
+            "link": "https://lichess.org/x8x8pa2b"
+        },
+        {
+            "id": "6297NZ2U",
+            "fen": "4Rrk1/6p1/6Kp/7P/8/8/8/8 w - - 2 55",
+            "eval": 0.0,
+            "averageLichessElo": 1789,
+            "link": "https://lichess.org/wxvuxhfr"
+        },
+        {
+            "id": "GSE3OJSG",
+            "fen": "r1b1k1r1/p1p5/p3pn2/3q4/3P1B1p/2PQPN2/P4PP1/R4RK1 w q - 2 15",
+            "eval": 1.87,
+            "averageLichessElo": 1634,
+            "link": "https://lichess.org/sws07fru"
+        },
+        {
+            "id": "2JYWCB2X",
+            "fen": "3r3r/4Q3/kp4p1/pqp1P2p/2n5/1P5P/P1P5/1K1R2R1 w - - 2 29",
+            "eval": 3.7,
+            "averageLichessElo": 1739,
+            "link": "https://lichess.org/r1h0570l"
+        },
+        {
+            "id": "GTSXCUMQ",
+            "fen": "8/2q3pk/1p4r1/7p/3R3P/2P2P1K/1P3Q2/8 w - - 9 42",
+            "eval": 0.87,
+            "averageLichessElo": 1500,
+            "link": "https://lichess.org/tarycpz4"
+        },
+        {
+            "id": "PZC6LJPV",
+            "fen": "5r2/ppk4p/2pb2p1/8/4N2q/3P4/PPP2PP1/R2Q1K2 w - - 2 24",
+            "eval": 0.66,
+            "averageLichessElo": 1511,
+            "link": "https://lichess.org/9mwmccag"
+        },
+        {
+            "id": "8OX31XTD",
+            "fen": "r3k1r1/1p6/2q1pp1p/p1b1n2b/8/1BP1RN1P/PP1N1PP1/R2Q2K1 w q - 4 19",
+            "eval": -0.39,
+            "averageLichessElo": 1587,
+            "link": "https://lichess.org/c1l9to46"
+        },
+        {
+            "id": "9FR14DSL",
+            "fen": "2kr2r1/1pp4p/p4pq1/3Pn3/Q1P5/6NP/P4PP1/4RRK1 w - - 0 22",
+            "eval": 2.47,
+            "averageLichessElo": 1526,
+            "link": "https://lichess.org/ccyrerjy"
+        },
+        {
+            "id": "96UHJSYL",
+            "fen": "r5k1/p3Bp1p/3N4/8/3p4/1P3b1r/P2PKP2/2R1R3 w - - 6 30",
+            "eval": 5.48,
+            "averageLichessElo": 1612,
+            "link": "https://lichess.org/wkwvjorz"
+        },
+        {
+            "id": "6S6QOVJ5",
+            "fen": "r3k2r/ppp2ppp/4p3/3pN3/1b1P2P1/2N2P1P/PPQ1Pq2/3K1B1R w kq - 0 14",
+            "eval": 5.2,
+            "averageLichessElo": 1601,
+            "link": "https://lichess.org/gc43tliq"
+        },
+        {
+            "id": "0XIUC1Z3",
+            "fen": "8/6p1/2p1p3/1pBpPp1p/6k1/4P1P1/6KP/8 b - - 3 36",
+            "eval": 0.0,
+            "averageLichessElo": 1534,
+            "link": "https://lichess.org/owpugjt7"
+        },
+        {
+            "id": "J1XBQ6HF",
+            "fen": "2k2r2/2pqbr2/2np3p/1p2PPp1/8/2P1BQ1P/PP3PP1/3R1RK1 b - - 0 22",
+            "eval": 2.26,
+            "averageLichessElo": 1726,
+            "link": "https://lichess.org/wv7mub09"
+        },
+        {
+            "id": "5Z5EIGUT",
+            "fen": "r1bk2r1/ppp2p2/3p4/1NnPp3/4P3/5B1P/PPPQK2q/R5R1 w - - 10 21",
+            "eval": -0.67,
+            "averageLichessElo": 1556,
+            "link": "https://lichess.org/vj9hz9a6"
+        },
+        {
+            "id": "AB86CIBV",
+            "fen": "7k/pp3prp/2p2Q2/3bP2q/8/6P1/P1P2R1K/5R2 w - - 13 41",
+            "eval": -0.09,
+            "averageLichessElo": 1880,
+            "link": "https://lichess.org/55gymbm3"
+        },
+        {
+            "id": "L5NJXZ8E",
+            "fen": "6k1/p2p1p1p/6p1/4B3/3nP3/5qP1/P1r2PKP/R2Q3R w - - 4 24",
+            "eval": 7.97,
+            "averageLichessElo": 1751,
+            "link": "https://lichess.org/ghewjla9"
+        },
+        {
+            "id": "4646K3VN",
+            "fen": "rk2r3/ppp5/3nB2p/2R3p1/8/8/PQ3PPP/6K1 w - - 1 23",
+            "eval": 5.46,
+            "averageLichessElo": 1510,
+            "link": "https://lichess.org/t6byl7vg"
+        },
+        {
+            "id": "WHS9BJ3O",
+            "fen": "r6r/p1pq2p1/1pn2k2/2b3N1/5Qb1/2p4P/P1P2PP1/1R2R1K1 b - - 1 17",
+            "eval": 4.24,
+            "averageLichessElo": 1513,
+            "link": "https://lichess.org/02x43ma7"
+        },
+        {
+            "id": "Z57627EF",
+            "fen": "r1bq2kr/1pp3pp/p1n1Nn2/5Q2/3P4/B1P5/P1P2PPP/R3R1K1 b - - 0 14",
+            "eval": 0.74,
+            "averageLichessElo": 1641,
+            "link": "https://lichess.org/vnd2mohg"
+        },
+        {
+            "id": "11Y49WML",
+            "fen": "7r/pb1qn3/1pn2Q1k/2p1p3/P2pPP2/1B1P2r1/1RPN2P1/3R2K1 b - - 0 33",
+            "eval": 2.35,
+            "averageLichessElo": 1637,
+            "link": "https://lichess.org/to5z3et4"
+        },
+        {
+            "id": "7E0EYHHW",
+            "fen": "2r4k/p7/4p1Q1/7p/P2b4/6P1/4qP1P/5RK1 b - - 0 29",
+            "eval": 3.68,
+            "averageLichessElo": 1539,
+            "link": "https://lichess.org/7ci0khmb"
+        },
+        {
+            "id": "ORJGMTD1",
+            "fen": "3r1k2/1R2Rp1p/1p2bPp1/2p1B1P1/p4PK1/3r4/1P5P/8 w - - 4 38",
+            "eval": 0.0,
+            "averageLichessElo": 1715,
+            "link": "https://lichess.org/dbrsdpq9"
+        },
+        {
+            "id": "5RGVPQHB",
+            "fen": "3r2k1/2p2pp1/1p1R3p/n1b2B2/P1P4P/6P1/5P2/4R1K1 b - - 0 35",
+            "eval": 5.36,
+            "averageLichessElo": 1662,
+            "link": "https://lichess.org/9mr1b80t"
+        },
+        {
+            "id": "RSLDVUNB",
+            "fen": "r2k1b1r/pppNp1pp/2n1Bn2/8/1q6/3Q4/2PP1PPP/2BK3R b - - 0 13",
+            "eval": 5.13,
+            "averageLichessElo": 1623,
+            "link": "https://lichess.org/snce6qon"
+        },
+        {
+            "id": "3UGDV5TK",
+            "fen": "3r2k1/1r4pp/p3R3/4Nn2/2p5/8/PP5P/1K6 b - - 2 31",
+            "eval": 7.34,
+            "averageLichessElo": 1526,
+            "link": "https://lichess.org/2gauw207"
+        },
+        {
+            "id": "S3TIDNAU",
+            "fen": "8/6R1/5P2/4P3/3P1k2/6p1/2r3K1/8 w - - 4 57",
+            "eval": 4.64,
+            "averageLichessElo": 1815,
+            "link": "https://lichess.org/b8mb3jzx"
+        },
+        {
+            "id": "E8E7OXT4",
+            "fen": "1r3rk1/5pp1/p1bp3p/1p2p3/4Pb1q/2PB1PN1/PP3QPP/R4R1K w - - 10 20",
+            "eval": -0.49,
+            "averageLichessElo": 1651,
+            "link": "https://lichess.org/xe3b6nsy"
+        },
+        {
+            "id": "3SY3VDQW",
+            "fen": "1br1r1k1/2q2pp1/p7/P1P1p3/1P6/3p3P/1B3PQ1/3RR1K1 b - - 1 28",
+            "eval": -0.56,
+            "averageLichessElo": 1742,
+            "link": "https://lichess.org/8ujmml7l"
+        },
+        {
+            "id": "6YMCAJK0",
+            "fen": "3r3r/p1pknQ2/B1pb3p/3p4/5p1q/1PP5/PB6/2K1RR2 b - - 1 25",
+            "eval": 1.79,
+            "averageLichessElo": 1808,
+            "link": "https://lichess.org/1m3o12b4"
+        },
+        {
+            "id": "AWNRBX1E",
+            "fen": "rn3k1r/ppp2ppp/6b1/1B6/3NnBP1/5K1P/P1P5/1R2R3 b - - 4 17",
+            "eval": -0.85,
+            "averageLichessElo": 1727,
+            "link": "https://lichess.org/8m071l2z"
+        },
+        {
+            "id": "QEJK6AMP",
+            "fen": "1r1qrk2/1b1n1B2/p1p1p3/3p3N/8/1P4Q1/P1P2PP1/5RK1 b - - 0 26",
+            "eval": -0.71,
+            "averageLichessElo": 1607,
+            "link": "https://lichess.org/0axse2cn"
+        },
+        {
+            "id": "5K1ARWH3",
+            "fen": "2r2rk1/p4ppp/1pq1pn2/n1b5/2P5/P1Q2N1P/1B1NKPP1/2RR4 b - - 0 23",
+            "eval": 2.63,
+            "averageLichessElo": 1607,
+            "link": "https://lichess.org/xsvqyvb1"
+        },
+        {
+            "id": "M5TR2L1J",
+            "fen": "rn1qk2r/p1ppp1bP/1p3n2/8/3P4/2PBBQ2/PP3P1P/RN2K3 b Qkq - 0 10",
+            "eval": 0.25,
+            "averageLichessElo": 1763,
+            "link": "https://lichess.org/3is0rwk6"
+        },
+        {
+            "id": "5HKA8X0W",
+            "fen": "r4r2/1bp2k1p/pp2q1p1/2p2p2/5P2/1PQ3R1/PB4PP/4R1K1 b - - 5 25",
+            "eval": -0.83,
+            "averageLichessElo": 1870,
+            "link": "https://lichess.org/rrxdhih9"
+        },
+        {
+            "id": "ZS1FPD2M",
+            "fen": "6k1/pr5p/5R2/1q2P3/3p4/2r4P/PP4Q1/1K6 b - - 2 35",
+            "eval": -0.36,
+            "averageLichessElo": 1720,
+            "link": "https://lichess.org/0b1cr89o"
+        },
+        {
+            "id": "QTC4YGGQ",
+            "fen": "5rk1/p1Q3pp/5n2/3p4/8/1P2qN1P/P3r1P1/R3R1K1 w - - 3 24",
+            "eval": 0.0,
+            "averageLichessElo": 1795,
+            "link": "https://lichess.org/u4cz04jn"
+        },
+        {
+            "id": "33GRYOUM",
+            "fen": "rn1q1r2/p4pk1/1pppp3/6pQ/2PP4/3B3P/PP1K1PP1/R6R b - - 1 16",
+            "eval": 0.28,
+            "averageLichessElo": 1795,
+            "link": "https://lichess.org/1hnzepas"
+        },
+        {
+            "id": "9FDDBSGY",
+            "fen": "1R1b3k/p4pp1/7p/q1p5/P1Pp1r2/8/2Q2PPP/1N3RK1 w - - 0 27",
+            "eval": 6.67,
+            "averageLichessElo": 1579,
+            "link": "https://lichess.org/7w7vqgb7"
+        },
+        {
+            "id": "DKQOFQWD",
+            "fen": "2r3k1/5p2/p2r3p/6p1/1p1N1n2/5R1P/PPP1RPP1/1K6 w - - 3 33",
+            "eval": -0.91,
+            "averageLichessElo": 1609,
+            "link": "https://lichess.org/upmx1b4v"
+        },
+        {
+            "id": "3IE9G7ZN",
+            "fen": "r1b2r2/5kpQ/n1p1p2p/4P1q1/pp3P2/P2B4/1PP3P1/R4RK1 b - - 0 26",
+            "eval": 1.21,
+            "averageLichessElo": 1986,
+            "link": "https://lichess.org/8lvdgy4k"
+        },
+        {
+            "id": "OWW14V5J",
+            "fen": "5rk1/p2b1ppp/Br1P4/2ppB3/4nP1q/Q3P3/P3N1PP/RN2K2R w KQ - 8 20",
+            "eval": 4.21,
+            "averageLichessElo": 1619,
+            "link": "https://lichess.org/qaj240ta"
+        },
+        {
+            "id": "T2BGMDOA",
+            "fen": "6k1/2R3p1/6P1/pp3r2/1b4K1/1P2pr2/P7/7R b - - 9 45",
+            "eval": 6.47,
+            "averageLichessElo": 1548,
+            "link": "https://lichess.org/keph556r"
+        },
+        {
+            "id": "J170KANR",
+            "fen": "3r1r1k/5pp1/p2p3p/1p3Pq1/8/P3n1B1/1PP3PP/3RQRK1 w - - 1 27",
+            "eval": 1.14,
+            "averageLichessElo": 1722,
+            "link": "https://lichess.org/bj99ftk2"
+        },
+        {
+            "id": "BYO5EORX",
+            "fen": "8/2pQ2kp/6p1/1P2p3/6PK/5q1P/7r/8 b - - 2 51",
+            "eval": 6.58,
+            "averageLichessElo": 1627,
+            "link": "https://lichess.org/y0bxdsgc"
+        },
+        {
+            "id": "62DQEVLN",
+            "fen": "8/R5pp/1p2kp2/4p2b/P3Pb1P/B4P2/6PK/3r4 w - - 5 30",
+            "eval": -0.53,
+            "averageLichessElo": 1854,
+            "link": "https://lichess.org/rli57qxh"
+        },
+        {
+            "id": "F78JKKGI",
+            "fen": "r2q1rk1/bp3ppp/p4n2/3p4/1Pp5/P1NnPPP1/2QP2BP/R1B2R1K w - - 1 18",
+            "eval": -0.92,
+            "averageLichessElo": 1799,
+            "link": "https://lichess.org/1gxi2jlm"
+        },
+        {
+            "id": "Y72YQD3V",
+            "fen": "4q1k1/2R5/p2p1r1p/1p1P2p1/8/P2Q2P1/1P5P/6K1 b - - 1 29",
+            "eval": 0.04,
+            "averageLichessElo": 1806,
+            "link": "https://lichess.org/7yzfehe2"
+        },
+        {
+            "id": "V6MWEOVC",
+            "fen": "1rbq2k1/p1p1r2p/2p2QpB/5pN1/1P6/P7/5PPP/5RK1 b - - 5 20",
+            "eval": 3.06,
+            "averageLichessElo": 1631,
+            "link": "https://lichess.org/zk4rswd2"
+        },
+        {
+            "id": "63GI6RN2",
+            "fen": "8/r3k3/4pn1R/8/8/2p5/2PN4/2K5 w - - 0 42",
+            "eval": -0.55,
+            "averageLichessElo": 1555,
+            "link": "https://lichess.org/9ci00i6z"
+        },
+        {
+            "id": "VDS0OLJ2",
+            "fen": "6k1/p4pp1/1q2b2p/8/4B3/1P4P1/P2Q3P/7K b - - 0 32",
+            "eval": 0.05,
+            "averageLichessElo": 1579,
+            "link": "https://lichess.org/3p2c6i2e"
+        },
+        {
+            "id": "DYA7NQ76",
+            "fen": "3k4/pp1n2pp/8/R7/8/6N1/Pr2prPP/3RK3 w - - 0 25",
+            "eval": 0.42,
+            "averageLichessElo": 1751,
+            "link": "https://lichess.org/rvu2a776"
+        },
+        {
+            "id": "40WXVMS3",
+            "fen": "r5k1/1p2nrp1/p1pp2qp/P3p3/1P6/1QPPP2b/3N1RPP/5RK1 w - - 0 22",
+            "eval": 5.03,
+            "averageLichessElo": 1540,
+            "link": "https://lichess.org/kh64tiw1"
+        },
+        {
+            "id": "DWKS7YDJ",
+            "fen": "rnbqr1k1/ppp2ppn/3bp3/3p2P1/6P1/4P2Q/PPPP1PB1/RNB1K2R b KQ - 2 10",
+            "eval": -0.32,
+            "averageLichessElo": 1562,
+            "link": "https://lichess.org/8sh7239l"
+        },
+        {
+            "id": "H21UHHRB",
+            "fen": "rn3b1r/pp6/2pk4/3p1nBB/5Pb1/P1NQq3/1PP1N3/R3K2R w KQ - 2 17",
+            "eval": -0.02,
+            "averageLichessElo": 1593,
+            "link": "https://lichess.org/qgz2fmok"
+        },
+        {
+            "id": "LGZY1SF4",
+            "fen": "8/8/2p5/2Kb4/kp6/8/8/2R5 b - - 1 51",
+            "eval": 0.03,
+            "averageLichessElo": 1590,
+            "link": "https://lichess.org/s924ge11"
+        },
+        {
+            "id": "TWWED6U2",
+            "fen": "5rk1/p4ppp/2n1r3/1p1p4/2pP2Nq/1PP1PQb1/P1BNR1P1/R5K1 w - - 6 25",
+            "eval": 3.41,
+            "averageLichessElo": 1697,
+            "link": "https://lichess.org/6a7243t4"
+        },
+        {
+            "id": "Z2S2S6IW",
+            "fen": "1r3r1k/p1pqn1pp/1b4n1/5p2/1PBP1P2/2P3P1/P6P/RNBQR2K b - - 0 19",
+            "eval": 2.28,
+            "averageLichessElo": 1598,
+            "link": "https://lichess.org/beonwxfx"
+        },
+        {
+            "id": "ZRURZTTV",
+            "fen": "r5k1/p2p1ppp/1p6/2bQn3/2P5/Pq2P1P1/7P/2B2RK1 b - - 1 22",
+            "eval": 6.47,
+            "averageLichessElo": 1678,
+            "link": "https://lichess.org/4ot8giun"
+        },
+        {
+            "id": "I1L0FYHA",
+            "fen": "r2q1r2/pb1n1pk1/1p1p3p/5Q2/2PP4/3B4/P1P2PPP/R4RK1 b - - 2 16",
+            "eval": 2.63,
+            "averageLichessElo": 1547,
+            "link": "https://lichess.org/eqihsmr2"
+        },
+        {
+            "id": "F841W9ZS",
+            "fen": "2k4r/1bp5/pp1p1N2/2b2pp1/P7/2P2nP1/5P1P/3RRK2 b - - 2 28",
+            "eval": 6.31,
+            "averageLichessElo": 1768,
+            "link": "https://lichess.org/km4nhyp1"
+        },
+        {
+            "id": "6Z017U0L",
+            "fen": "7k/1p2B2p/5p2/1p2pn2/8/1P1r4/r7/2K3R1 b - - 1 33",
+            "eval": 65.82,
+            "averageLichessElo": 1616,
+            "link": "https://lichess.org/2cf5t5ry"
+        },
+        {
+            "id": "TPCLHAIN",
+            "fen": "3q1k1r/r4pbp/p1n3p1/1p1P2N1/6b1/1B2Q3/PPP2PPP/R1B1K2R w KQ - 1 16",
+            "eval": 4.1,
+            "averageLichessElo": 1749,
+            "link": "https://lichess.org/v0lo7no2"
+        },
+        {
+            "id": "G85QTGIC",
+            "fen": "rn1qr3/pppkb1p1/3p3p/3Q4/5B2/5N2/PPP2PPP/4R1K1 b - - 0 15",
+            "eval": 4.1,
+            "averageLichessElo": 1724,
+            "link": "https://lichess.org/faxsmjep"
+        },
+        {
+            "id": "4WIQA5V3",
+            "fen": "6r1/1kp1N2p/pp6/5p2/8/6qP/PP2R1b1/R2Q2K1 w - - 0 28",
+            "eval": 2.19,
+            "averageLichessElo": 1556,
+            "link": "https://lichess.org/9sno9h20"
+        },
+        {
+            "id": "6KQJGPA6",
+            "fen": "8/4K3/5Rkp/8/4p1r1/4Bb2/8/8 b - - 0 52",
+            "eval": 0.0,
+            "averageLichessElo": 1587,
+            "link": "https://lichess.org/gby4tqx3"
+        },
+        {
+            "id": "ZAFM7JZG",
+            "fen": "r2q2kr/3p2p1/ppn3BN/4P3/5Qb1/P6p/1PP4P/2K2R2 b - - 1 27",
+            "eval": 5.33,
+            "averageLichessElo": 1751,
+            "link": "https://lichess.org/crrhphwv"
+        },
+        {
+            "id": "ZMGBT4E4",
+            "fen": "r3r3/pp3p2/2n2Pk1/3pp1P1/2p2Pb1/2P3K1/PPP5/R6R b - - 1 23",
+            "eval": 6.36,
+            "averageLichessElo": 1561,
+            "link": "https://lichess.org/8dtnja5y"
+        },
+        {
+            "id": "U5HFKLOU",
+            "fen": "3r2k1/p5pp/2p5/6Nq/1b2p3/4B3/PPP2P2/3RK1Q1 w - - 4 28",
+            "eval": -0.25,
+            "averageLichessElo": 1554,
+            "link": "https://lichess.org/campcyce"
+        },
+        {
+            "id": "15OGF876",
+            "fen": "r7/p4Q2/2pk1p2/2p2Pp1/3p1q2/6NK/PP6/8 b - - 6 38",
+            "eval": 9.34,
+            "averageLichessElo": 1817,
+            "link": "https://lichess.org/jswenr4p"
+        },
+        {
+            "id": "HXRDPM8M",
+            "fen": "3r2k1/q4ppp/pb2p3/1p4Q1/1P2b3/PR2N3/5PPP/2B3K1 b - - 3 23",
+            "eval": 3.75,
+            "averageLichessElo": 1561,
+            "link": "https://lichess.org/y1ygq6yz"
+        },
+        {
+            "id": "SJD43P7F",
+            "fen": "3q4/8/p7/1p6/k1p4p/P1P5/KP4Q1/8 b - - 11 62",
+            "eval": 0.19,
+            "averageLichessElo": 1868,
+            "link": "https://lichess.org/lrhg83gx"
+        },
+        {
+            "id": "UZ2MCVDA",
+            "fen": "7k/ppp4p/2n5/4p1N1/4P3/P2Pp3/1PP1Rr1r/2K3R1 b - - 3 23",
+            "eval": 4.99,
+            "averageLichessElo": 1536,
+            "link": "https://lichess.org/wgg2vhkw"
+        },
+        {
+            "id": "T3VW4NVB",
+            "fen": "r1b2k2/pp1n1p2/5n2/2pP4/7r/2NBRQ2/PPP3Pq/4KR2 b - - 2 22",
+            "eval": 1.73,
+            "averageLichessElo": 1916,
+            "link": "https://lichess.org/0aqa7s63"
+        },
+        {
+            "id": "JSYBMYAT",
+            "fen": "r3k1nr/ppp2ppp/3q4/4N3/6b1/1Qb1P3/PP3PPP/R1B1KB1R w KQkq - 0 10",
+            "eval": 0.99,
+            "averageLichessElo": 2093,
+            "link": "https://lichess.org/ff205zt6"
+        },
+        {
+            "id": "D93JJV57",
+            "fen": "8/1p5R/p2kr3/P7/2P1p3/2KP2r1/8/4R3 w - - 0 46",
+            "eval": 0.0,
+            "averageLichessElo": 1646,
+            "link": "https://lichess.org/x5o16fgq"
+        },
+        {
+            "id": "QEQS9OBQ",
+            "fen": "6k1/p4p2/2p1b1p1/2pp3p/2Pq1P2/1P1PNKP1/P2Q2P1/8 w - - 0 31",
+            "eval": -0.69,
+            "averageLichessElo": 1942,
+            "link": "https://lichess.org/qgufnios"
+        },
+        {
+            "id": "2F3TFDU1",
+            "fen": "2r2r1k/1b2bppp/p3p3/1p2P2n/3q4/P1NB3Q/1PP3PP/R4R1K b - - 1 18",
+            "eval": 6.07,
+            "averageLichessElo": 1656,
+            "link": "https://lichess.org/9vznhwos"
+        },
+        {
+            "id": "29YIZBTO",
+            "fen": "2kr3r/1pp5/p3qpp1/Q2p2p1/3P4/2R2PbP/PPP2BP1/2K4R b - - 2 22",
+            "eval": 0.85,
+            "averageLichessElo": 1667,
+            "link": "https://lichess.org/5iiqmcw4"
+        },
+        {
+            "id": "AHSUQDBR",
+            "fen": "r4b1r/1p4kp/p1b5/2p3R1/2p2P1N/6P1/PPP4P/3R2K1 b - - 2 25",
+            "eval": 0.0,
+            "averageLichessElo": 1684,
+            "link": "https://lichess.org/yn01uyc0"
+        },
+        {
+            "id": "C7N4O8KI",
+            "fen": "r1bq1r1k/ppp5/2nb1pB1/4p1N1/3P4/4B2Q/P4PPP/2R2RK1 b - - 0 17",
+            "eval": 5.75,
+            "averageLichessElo": 1611,
+            "link": "https://lichess.org/qufkwz4i"
+        },
+        {
+            "id": "YHAMCM1Y",
+            "fen": "k2r2r1/Bb4q1/3Ppp2/1N3p1p/5P2/5N2/PPQ3PP/R4RK1 w - - 1 22",
+            "eval": 9.43,
+            "averageLichessElo": 1574,
+            "link": "https://lichess.org/smoirtek"
+        },
+        {
+            "id": "R565PT21",
+            "fen": "r2q1rk1/pp1n1ppp/4pn2/3p3b/3Q4/P1B1PN1P/1PP1BPP1/R3R1K1 b - - 2 12",
+            "eval": -0.02,
+            "averageLichessElo": 1711,
+            "link": "https://lichess.org/5hadn0cq"
+        },
+        {
+            "id": "JHH8FAYP",
+            "fen": "3r1bk1/1p3pp1/p7/P5q1/3B1n1p/1NP2P2/1P1Q2PP/4R2K w - - 0 39",
+            "eval": 0.66,
+            "averageLichessElo": 1911,
+            "link": "https://lichess.org/22t0mccl"
+        },
+        {
+            "id": "7V1OTO44",
+            "fen": "r6k/pp4p1/6r1/2p3Qp/3pPn2/NP3B2/PBP2qPK/R5R1 w - - 4 26",
+            "eval": 3.79,
+            "averageLichessElo": 1766,
+            "link": "https://lichess.org/osb6dcyl"
+        },
+        {
+            "id": "STS62RLZ",
+            "fen": "1r3k1r/2R2pNp/5Pp1/1p1b2P1/7P/P2PB1K1/8/8 b - - 2 42",
+            "eval": -0.73,
+            "averageLichessElo": 1886,
+            "link": "https://lichess.org/7b4xeqhe"
+        },
+        {
+            "id": "SIFK5CEF",
+            "fen": "2r3k1/b4ppq/8/p7/8/P3P1P1/1P2QPKP/3R4 b - - 1 24",
+            "eval": 0.47,
+            "averageLichessElo": 1645,
+            "link": "https://lichess.org/v0teyp38"
+        },
+        {
+            "id": "VXN5C5QF",
+            "fen": "r3nrk1/pbpp1ppp/1p4q1/8/1P2P3/P2B3P/1B2QPP1/R2R2K1 w - - 4 20",
+            "eval": 1.06,
+            "averageLichessElo": 1732,
+            "link": "https://lichess.org/ge4tcjro"
+        },
+        {
+            "id": "VADHZSL9",
+            "fen": "7k/pR6/2p4p/5KbB/6P1/5r2/8/8 w - - 3 44",
+            "eval": -0.03,
+            "averageLichessElo": 1607,
+            "link": "https://lichess.org/d7g33qzh"
+        },
+        {
+            "id": "2BTKPWZ1",
+            "fen": "1k2r3/ppp3Qp/1b6/3q4/8/N1P5/PP1r2PP/R4R1K w - - 1 22",
+            "eval": -0.96,
+            "averageLichessElo": 1774,
+            "link": "https://lichess.org/y15ffoup"
+        },
+        {
+            "id": "EIDPO24E",
+            "fen": "6rk/ppp2Rp1/6Qp/2qP2P1/2P5/1P5P/P3r3/5R1K b - - 0 37",
+            "eval": -0.69,
+            "averageLichessElo": 1565,
+            "link": "https://lichess.org/gjlj6mbs"
+        },
+        {
+            "id": "I04QNEHZ",
+            "fen": "5rk1/1b3ppp/p3p3/1p6/4q3/2PR2Q1/PP3PPP/R5K1 w - - 5 24",
+            "eval": 3.21,
+            "averageLichessElo": 1705,
+            "link": "https://lichess.org/o9mnc933"
+        },
+        {
+            "id": "MDPDCFT8",
+            "fen": "6k1/1p3p2/p4P1p/6b1/2nP2Q1/5N1P/6PK/3q4 b - - 0 41",
+            "eval": 3.11,
+            "averageLichessElo": 1743,
+            "link": "https://lichess.org/6h0bawlb"
+        },
+        {
+            "id": "VNKQRLTC",
+            "fen": "r3k2r/pp1n1ppp/2p1pn2/6B1/3P4/2N2Bq1/PPP5/R2Q1R1K w kq - 0 15",
+            "eval": 2.12,
+            "averageLichessElo": 1836,
+            "link": "https://lichess.org/fahew3gt"
+        },
+        {
+            "id": "XQG85Z1Q",
+            "fen": "r1b1kb1r/ppp2p1p/3p3p/3Np2Q/2B1P3/3PnN1P/PP3qP1/R2K3R w kq - 2 11",
+            "eval": 5.13,
+            "averageLichessElo": 1679,
+            "link": "https://lichess.org/nk5ag6dk"
+        },
+        {
+            "id": "7A05UEBT",
+            "fen": "r4rk1/pp2np1p/4p1pQ/q7/3R1PP1/1P6/PBP4P/1NK4b w - - 0 20",
+            "eval": 0.9,
+            "averageLichessElo": 1680,
+            "link": "https://lichess.org/bcyz7bgx"
+        },
+        {
+            "id": "DFQUFINZ",
+            "fen": "8/6pk/Q6p/8/1r4PK/8/pr6/8 w - - 3 59",
+            "eval": 0.0,
+            "averageLichessElo": 1643,
+            "link": "https://lichess.org/32q1gg7c"
+        },
+        {
+            "id": "LDHVJRRG",
+            "fen": "1r4k1/p4ppp/2p5/8/8/P1P1KP2/2P4P/3R4 b - - 2 29",
+            "eval": 0.07,
+            "averageLichessElo": 1500,
+            "link": "https://lichess.org/hbip4mo5"
+        },
+        {
+            "id": "715RPPDR",
+            "fen": "1r3rk1/p1p2ppp/8/3qp3/1PR1Nn2/P2P4/5PPP/3Q1RK1 w - - 8 21",
+            "eval": 0.34,
+            "averageLichessElo": 1721,
+            "link": "https://lichess.org/jgiwyc9i"
+        },
+        {
+            "id": "JB1IV24H",
+            "fen": "r3k2r/1p6/p2B2p1/2pN4/2Pbp3/7P/PP3nPK/R4R2 b kq - 2 27",
+            "eval": 0.72,
+            "averageLichessElo": 1712,
+            "link": "https://lichess.org/0ek9v1cg"
+        },
+        {
+            "id": "Z918TF8O",
+            "fen": "r2q1rk1/pppn1ppp/5n2/3p1Qb1/3P2NP/3BPP2/PPP3P1/R3K2R b KQ - 0 15",
+            "eval": 0.71,
+            "averageLichessElo": 1672,
+            "link": "https://lichess.org/dylfkxwd"
+        },
+        {
+            "id": "4LRR3GOM",
+            "fen": "6k1/pp3ppp/1q6/2p1BP2/2P1b3/1P5P/P5P1/3Q2K1 b - - 0 24",
+            "eval": 0.12,
+            "averageLichessElo": 1702,
+            "link": "https://lichess.org/culnok4r"
+        },
+        {
+            "id": "OYVLHUB5",
+            "fen": "3rr1k1/pR3Q1p/6p1/8/8/5BP1/q4P1P/5RK1 b - - 0 22",
+            "eval": 2.71,
+            "averageLichessElo": 1505,
+            "link": "https://lichess.org/2s9773n7"
+        },
+        {
+            "id": "JJ97DTNJ",
+            "fen": "5rk1/pb2pp1p/1p4p1/2p2PP1/4q3/5Q1P/PPP3B1/5RK1 w - - 0 24",
+            "eval": 4.41,
+            "averageLichessElo": 1749,
+            "link": "https://lichess.org/jpoc8sjx"
+        },
+        {
+            "id": "JRTEQS2V",
+            "fen": "q4rk1/p4p1p/1p2pnp1/8/PPP2P2/2N1n1PP/2Q5/3R1RK1 w - - 0 25",
+            "eval": -0.13,
+            "averageLichessElo": 1824,
+            "link": "https://lichess.org/7zeib4dw"
+        },
+        {
+            "id": "Z5MEVO3B",
+            "fen": "r2q1rk1/pbb1pp1p/1p4p1/5B2/3B4/2P4P/PP1Q2P1/RN3RK1 b - - 0 17",
+            "eval": 3.88,
+            "averageLichessElo": 1793,
+            "link": "https://lichess.org/3x13yvec"
+        },
+        {
+            "id": "HPEZHW92",
+            "fen": "5R2/8/8/rP6/6k1/8/5pPK/8 w - - 0 55",
+            "eval": -0.02,
+            "averageLichessElo": 1500,
+            "link": "https://lichess.org/3x4bvz7g"
+        },
+        {
+            "id": "X93X46VV",
+            "fen": "2r3r1/1R5p/3P2p1/P1q2bk1/4p3/6R1/1Q3PPP/6K1 b - - 3 32",
+            "eval": 0.57,
+            "averageLichessElo": 1901,
+            "link": "https://lichess.org/ds8lx2bm"
+        },
+        {
+            "id": "4BIDHYXX",
+            "fen": "b3r1k1/3R1p2/p5p1/Npp4p/1P3P2/P5P1/5P1P/2R3K1 w - - 0 37",
+            "eval": 6.65,
+            "averageLichessElo": 1978,
+            "link": "https://lichess.org/g0y7uxzf"
+        },
+        {
+            "id": "KMGFB0IV",
+            "fen": "7r/pp1n1pk1/2p1pq2/P5p1/1P1P1b2/2PB3r/R3QPPN/4R1K1 w - - 0 26",
+            "eval": 2.72,
+            "averageLichessElo": 1611,
+            "link": "https://lichess.org/nnrsbo9e"
+        },
+        {
+            "id": "8LS22422",
+            "fen": "6b1/8/R1p5/1pk1K3/3pP3/P2P4/1Pn5/8 b - - 0 42",
+            "eval": 3.44,
+            "averageLichessElo": 1593,
+            "link": "https://lichess.org/wkfvh8eb"
+        },
+        {
+            "id": "97SGIB7Z",
+            "fen": "3q1rk1/5pb1/2N1pnp1/1p4r1/p2P3R/2PQ4/PPB2PP1/4R1K1 b - - 2 25",
+            "eval": -0.93,
+            "averageLichessElo": 1732,
+            "link": "https://lichess.org/yqvfspur"
+        },
+        {
+            "id": "7MVZFOYK",
+            "fen": "2r2r1k/1p4pp/8/p7/2b5/P3P3/1P1B2Pb/RQ2K2R w - - 0 29",
+            "eval": 4.41,
+            "averageLichessElo": 1798,
+            "link": "https://lichess.org/9xgc6c3h"
+        },
+        {
+            "id": "J4IE2FCA",
+            "fen": "6rk/3P3p/1p5P/2p5/p7/P1P2p2/2K5/8 b - - 0 42",
+            "eval": 10.56,
+            "averageLichessElo": 1921,
+            "link": "https://lichess.org/l4ardt4z"
+        },
+        {
+            "id": "DA5ZEUTX",
+            "fen": "r4rk1/pbppn1p1/1p2p1q1/4P1Bp/3P1p1P/2PB4/PP1Q1PPN/R4RK1 w - - 0 19",
+            "eval": 7.42,
+            "averageLichessElo": 1757,
+            "link": "https://lichess.org/g1roctx3"
+        },
+        {
+            "id": "AEHBJO7B",
+            "fen": "3r1r2/1ppq2kp/p1np1bp1/5NN1/2P2P1Q/1P6/P5PP/1R3R1K b - - 0 22",
+            "eval": -0.27,
+            "averageLichessElo": 1689,
+            "link": "https://lichess.org/8qe5xk8p"
+        },
+        {
+            "id": "DU37KWVQ",
+            "fen": "r6r/ppp2pp1/n2p3p/6kb/3BR2N/nPP5/P1P2PP1/R5K1 b - - 5 21",
+            "eval": 5.24,
+            "averageLichessElo": 1864,
+            "link": "https://lichess.org/0piaxh79"
+        },
+        {
+            "id": "98NHL9YA",
+            "fen": "2r5/pb1p2rk/1p2p2p/4Ppn1/3P3q/2P3N1/PP2BQPP/R4RK1 w - - 4 22",
+            "eval": 0.0,
+            "averageLichessElo": 1955,
+            "link": "https://lichess.org/ck0gb37t"
+        },
+        {
+            "id": "ZHOAPWEG",
+            "fen": "2kr2r1/pp1n1p1p/5p2/2pP4/7N/2N3q1/PPP1B3/R3QbK1 w - - 0 18",
+            "eval": -0.5,
+            "averageLichessElo": 1568,
+            "link": "https://lichess.org/9b7lpbvg"
+        },
+        {
+            "id": "G376QM7G",
+            "fen": "r5k1/pp4pp/2p1b2q/2QpP3/8/2P5/PP4P1/5RK1 b - - 0 27",
+            "eval": 5.29,
+            "averageLichessElo": 1506,
+            "link": "https://lichess.org/xpzo1gdd"
+        },
+        {
+            "id": "0PTN9E6A",
+            "fen": "4k2r/1r1p1pp1/p1nPp2p/1p1nP3/3N4/PR5P/4BPP1/2R3K1 b k - 1 25",
+            "eval": 0.4,
+            "averageLichessElo": 1783,
+            "link": "https://lichess.org/k2i9wzb0"
+        },
+        {
+            "id": "YT7HIHJN",
+            "fen": "5n2/1p4pp/p3r3/1k1R4/1Pp5/2P5/P5PP/2K5 b - - 2 34",
+            "eval": 4.85,
+            "averageLichessElo": 1866,
+            "link": "https://lichess.org/8awswwv3"
+        },
+        {
+            "id": "BSEG4GDV",
+            "fen": "4r1k1/p1q2p2/4p1R1/2b1P1Q1/5P2/4p3/2Pr2PP/5RK1 b - - 0 29",
+            "eval": 8.18,
+            "averageLichessElo": 1740,
+            "link": "https://lichess.org/vnbovasv"
+        },
+        {
+            "id": "J75HO68V",
+            "fen": "6rk/R7/6p1/3q4/3p1P2/3Q4/P6P/6K1 b - - 0 33",
+            "eval": -0.18,
+            "averageLichessElo": 1955,
+            "link": "https://lichess.org/dy9sz99j"
+        },
+        {
+            "id": "RA5PYZCV",
+            "fen": "r1b1r2k/pp1n1p1p/3p1Q1B/2p5/4q3/1PP3P1/P6P/RN3RK1 b - - 3 23",
+            "eval": 8.25,
+            "averageLichessElo": 1770,
+            "link": "https://lichess.org/s051jj8r"
+        },
+        {
+            "id": "MMV2GKFD",
+            "fen": "3r3k/6bp/p1q3p1/1p2p3/1P6/8/PB2QPPP/5K1R w - - 3 27",
+            "eval": -0.18,
+            "averageLichessElo": 1717,
+            "link": "https://lichess.org/6gy8jpj8"
+        },
+        {
+            "id": "C9SMAN2P",
+            "fen": "r3kb1r/pbpp1ppp/1pq2n2/8/8/1BP1PN2/PP4PP/RN1Q1RK1 w kq - 5 12",
+            "eval": -0.76,
+            "averageLichessElo": 1864,
+            "link": "https://lichess.org/qvn6kuom"
+        },
+        {
+            "id": "5638IHM9",
+            "fen": "3r2k1/5pp1/pq2p2p/1p3n2/4PP2/2Q5/PP1r3P/K1R3R1 b - - 0 30",
+            "eval": 5.71,
+            "averageLichessElo": 1837,
+            "link": "https://lichess.org/n6e0g8lj"
+        },
+        {
+            "id": "0BVJLQGE",
+            "fen": "5r1k/3p2p1/1p2p3/2b2p2/2P2q2/p1NQ1N2/5PPP/5K1R w - - 1 24",
+            "eval": 0.72,
+            "averageLichessElo": 1688,
+            "link": "https://lichess.org/2djrwf31"
+        },
+        {
+            "id": "464863PR",
+            "fen": "3r2k1/p4pp1/1pp3q1/3pr2p/4b2P/P1P1R1B1/1P1Q1PP1/4R1K1 w - - 0 24",
+            "eval": 0.06,
+            "averageLichessElo": 1667,
+            "link": "https://lichess.org/sa6qw04u"
+        },
+        {
+            "id": "709K2LQY",
+            "fen": "1r1r2k1/p3qp1p/1p2p2Q/5B2/P7/5nP1/5P1P/R3R2K b - - 0 28",
+            "eval": -0.02,
+            "averageLichessElo": 1725,
+            "link": "https://lichess.org/nnq8cb36"
+        },
+        {
+            "id": "FBPYOGZR",
+            "fen": "r5k1/2p3q1/1pQ1p2p/3pN3/3P4/r1P1P1KP/6P1/1R6 w - - 2 32",
+            "eval": 0.78,
+            "averageLichessElo": 1649,
+            "link": "https://lichess.org/fz4y6kye"
+        },
+        {
+            "id": "Y2X1AMI5",
+            "fen": "4k3/3Pq1pp/P5r1/8/8/1Q2pPnP/5b1K/3R4 b - - 0 48",
+            "eval": 0.43,
+            "averageLichessElo": 1523,
+            "link": "https://lichess.org/lty4bwbb"
+        },
+        {
+            "id": "HOZO7GEH",
+            "fen": "1r2r1k1/3b1ppp/p2p2q1/1p3n2/3pR3/1B1P1Q2/PPP2PPP/RN4K1 w - - 2 18",
+            "eval": 0.24,
+            "averageLichessElo": 1616,
+            "link": "https://lichess.org/dly3wkaf"
+        },
+        {
+            "id": "U14F1CE2",
+            "fen": "4r2k/p5p1/2Q5/3p4/P4Pn1/1P1P2P1/2P1r1KP/2R5 w - - 3 30",
+            "eval": 3.9,
+            "averageLichessElo": 1571,
+            "link": "https://lichess.org/yw7nfod4"
+        },
+        {
+            "id": "G4TAZO5W",
+            "fen": "3r3r/1b3pk1/ppq1p2p/2p1P1pQ/5P2/P2BP1P1/1PR3PK/7R w - - 3 29",
+            "eval": 0.58,
+            "averageLichessElo": 1961,
+            "link": "https://lichess.org/tzr6uit1"
+        },
+        {
+            "id": "CP7YI8PM",
+            "fen": "r7/p1k1b2p/1p3q2/3pN3/3P1p2/7B/PP3PPP/2R3K1 b - - 2 25",
+            "eval": 3.87,
+            "averageLichessElo": 1932,
+            "link": "https://lichess.org/58ta1fxl"
+        },
+        {
+            "id": "CKPJZSXY",
+            "fen": "r1bq1rk1/p1ppbppp/2p2n2/6B1/8/3B3Q/PPP2PPP/RN3RK1 b - - 7 11",
+            "eval": 1.38,
+            "averageLichessElo": 1522,
+            "link": "https://lichess.org/yhic1p2y"
+        },
+        {
+            "id": "R7RPJF7E",
+            "fen": "5rk1/2p2p1R/p2bp1p1/8/2p1PP2/P1P2PB1/1r2K3/7R w - - 1 38",
+            "eval": -0.85,
+            "averageLichessElo": 1654,
+            "link": "https://lichess.org/ziq92nl1"
+        },
+        {
+            "id": "ZYXLMF11",
+            "fen": "rnb2rk1/pppn1pp1/3p4/4pNq1/4P3/2PP4/PPK2PP1/R2Q1B1R b - - 2 12",
+            "eval": 2.18,
+            "averageLichessElo": 1539,
+            "link": "https://lichess.org/oe3up3ou"
+        },
+        {
+            "id": "E54KZJSP",
+            "fen": "r3r3/pp2nB1p/5R2/7k/4nP2/6R1/PPP4P/2K5 b - - 1 24",
+            "eval": -0.92,
+            "averageLichessElo": 1742,
+            "link": "https://lichess.org/e8i152sp"
+        },
+        {
+            "id": "G7BGJJNF",
+            "fen": "7k/4q1pp/p3R3/P2Q4/4p2b/P7/R4rPP/1r2NK2 w - - 0 30",
+            "eval": 5.89,
+            "averageLichessElo": 1575,
+            "link": "https://lichess.org/ewcdpigz"
+        },
+        {
+            "id": "18LO2Y1H",
+            "fen": "rb2k2r/1pqb1ppp/p1n5/3p4/3P4/1P2PN2/3BBPPP/R2Q1RK1 w kq - 1 15",
+            "eval": 0.9,
+            "averageLichessElo": 1571,
+            "link": "https://lichess.org/lfrky0k3"
+        },
+        {
+            "id": "QPPSP0BQ",
+            "fen": "1R6/p5pk/4p2p/3p1p2/7P/5qPK/Q7/8 w - - 2 40",
+            "eval": 2.86,
+            "averageLichessElo": 1537,
+            "link": "https://lichess.org/iunz4hio"
+        },
+        {
+            "id": "I8J7RUB9",
+            "fen": "r4r1k/1pp3pn/p1nb3p/3Bp3/4P2q/P1N1B2P/1PP3P1/R2QK2R w KQ - 6 17",
+            "eval": -0.92,
+            "averageLichessElo": 1547,
+            "link": "https://lichess.org/6s0zttxj"
+        },
+        {
+            "id": "M0DTE5SU",
+            "fen": "6k1/p1pp3p/bp4p1/3r4/4N2q/1Q3P2/PP1r1RPP/4R1K1 w - - 6 27",
+            "eval": 5.85,
+            "averageLichessElo": 1784,
+            "link": "https://lichess.org/lxgznj0r"
+        },
+        {
+            "id": "G5I7S1D3",
+            "fen": "5r2/RRk5/2p1p2p/3p2p1/3Pn3/2PKP2P/2P1B2r/8 b - - 0 30",
+            "eval": 0.0,
+            "averageLichessElo": 1632,
+            "link": "https://lichess.org/vpd894w8"
+        },
+        {
+            "id": "5S04SNG0",
+            "fen": "4r1k1/5ppp/5n2/1Q1p1q1b/3P4/3nPN1P/1P1N1PP1/5RK1 b - - 0 21",
+            "eval": 1.93,
+            "averageLichessElo": 1634,
+            "link": "https://lichess.org/hy1irvhb"
+        },
+        {
+            "id": "G90VE326",
+            "fen": "3Qr2k/p5pp/8/2p5/8/1Pq2P2/P5PP/2R1rR1K w - - 2 29",
+            "eval": 6.5,
+            "averageLichessElo": 1565,
+            "link": "https://lichess.org/t9m5yeje"
+        },
+        {
+            "id": "2ZXD9AED",
+            "fen": "rn1q3k/ppp3pB/1b6/3pr3/8/1NP2R2/PPQ3PP/R2K4 b - - 1 18",
+            "eval": 0.52,
+            "averageLichessElo": 1676,
+            "link": "https://lichess.org/k7jtwmu2"
+        },
+        {
+            "id": "UW22UVSL",
+            "fen": "2r5/8/R7/1nBkp2p/PP1p4/2bK4/5PPP/8 b - - 2 39",
+            "eval": 4.96,
+            "averageLichessElo": 1892,
+            "link": "https://lichess.org/8lb4hyh7"
+        },
+        {
+            "id": "IPXAB4DT",
+            "fen": "1r3r1k/1p3n2/p4pR1/2p5/P2p4/7P/1PP2P2/6RK b - - 1 31",
+            "eval": 3.86,
+            "averageLichessElo": 1782,
+            "link": "https://lichess.org/ataxfs3u"
+        },
+        {
+            "id": "0VSIJPJW",
+            "fen": "8/3Q2kp/p4p2/1p4p1/8/1K1B4/5q2/8 b - - 1 42",
+            "eval": 0.0,
+            "averageLichessElo": 1846,
+            "link": "https://lichess.org/8xmcpmmn"
+        },
+        {
+            "id": "XXM8SJLX",
+            "fen": "2kr2r1/1pq2p2/p1p1bp1p/2p5/4P3/1PN2N1P/P1P1QPPb/R3RK2 w - - 5 17",
+            "eval": 0.43,
+            "averageLichessElo": 1659,
+            "link": "https://lichess.org/dhmh2pxn"
+        },
+        {
+            "id": "3V83TL36",
+            "fen": "6r1/4R3/1p3k2/4R3/5BK1/6P1/P1r4P/8 w - - 15 45",
+            "eval": 6.09,
+            "averageLichessElo": 1516,
+            "link": "https://lichess.org/2v1uc6te"
+        },
+        {
+            "id": "M0J7VZOG",
+            "fen": "r5k1/2q2p1p/p1p1rnpQ/np4P1/8/1P3N1P/PB1R1P2/2R3K1 b - - 0 28",
+            "eval": 0.15,
+            "averageLichessElo": 1560,
+            "link": "https://lichess.org/p41xactc"
+        },
+        {
+            "id": "GQIPQ7QI",
+            "fen": "2r3k1/3r1p2/R2Np2p/4n1p1/8/2P5/2P2PPP/3R2K1 w - - 4 35",
+            "eval": 0.07,
+            "averageLichessElo": 1848,
+            "link": "https://lichess.org/nudx7tay"
+        },
+        {
+            "id": "MM8YAYFC",
+            "fen": "r7/1b2P3/pp1Q4/8/P1Pp4/2kP4/3q1RPP/6K1 b - - 6 35",
+            "eval": 0.0,
+            "averageLichessElo": 1669,
+            "link": "https://lichess.org/9c5hyjbr"
+        },
+        {
+            "id": "ZW58X5T8",
+            "fen": "2kr1r2/1p4Qp/pq2p1p1/1b2Pp2/8/1R2P1P1/5PBP/5RK1 b - - 0 23",
+            "eval": -0.03,
+            "averageLichessElo": 1558,
+            "link": "https://lichess.org/7xkti7uj"
+        },
+        {
+            "id": "I7QJOUD5",
+            "fen": "k3r1r1/pb2B2R/1p6/5p2/3P1Q2/2P3P1/P1P2P1P/4R1K1 w - - 3 36",
+            "eval": 11.03,
+            "averageLichessElo": 1591,
+            "link": "https://lichess.org/7t7femxc"
+        },
+        {
+            "id": "4X30K7UA",
+            "fen": "2knr3/ppp4Q/6p1/1b2N3/1b1P4/1N6/PPq3PP/2R3K1 b - - 4 26",
+            "eval": 3.36,
+            "averageLichessElo": 1621,
+            "link": "https://lichess.org/oi3w1avi"
+        },
+        {
+            "id": "IMVJXHOM",
+            "fen": "1r6/pk1n3p/3N2p1/1p1N4/3P4/7B/PPPK3P/8 b - - 0 26",
+            "eval": -0.74,
+            "averageLichessElo": 1546,
+            "link": "https://lichess.org/gk9a2m15"
+        },
+        {
+            "id": "JE0N5BW2",
+            "fen": "r2q1rk1/pbpnbppp/1p1p4/3Pp1P1/4PP2/1PQ5/PBP4P/RN2K1NR b KQ - 0 15",
+            "eval": 1.53,
+            "averageLichessElo": 1655,
+            "link": "https://lichess.org/yitxrt3c"
+        },
+        {
+            "id": "6XH1IPUH",
+            "fen": "3Q4/kp5p/p2p4/P2q1p2/1P6/6P1/5PK1/8 w - - 2 53",
+            "eval": 0.0,
+            "averageLichessElo": 1500,
+            "link": "https://lichess.org/j217ge0d"
+        },
+        {
+            "id": "JO9DEQTV",
+            "fen": "2kr3r/1pp5/2bp4/1P2p1pp/2P5/7P/3N1PP1/R4RK1 b - - 0 27",
+            "eval": 0.1,
+            "averageLichessElo": 1733,
+            "link": "https://lichess.org/o15m9tfi"
+        },
+        {
+            "id": "GCI5Q7QK",
+            "fen": "6k1/p2R3R/8/3b4/2pP4/P4PB1/Pr1b3P/4K3 w - - 25 49",
+            "eval": 7.71,
+            "averageLichessElo": 1587,
+            "link": "https://lichess.org/195n2d4r"
+        },
+        {
+            "id": "Q0OE5IZ2",
+            "fen": "4rr1k/pR4p1/5q1R/3B4/2P2n2/P2Q3P/5PP1/7K b - - 0 30",
+            "eval": 4.65,
+            "averageLichessElo": 1605,
+            "link": "https://lichess.org/ivst3xzo"
+        },
+        {
+            "id": "2R6IKLIF",
+            "fen": "8/p3kr2/1p3p2/3Q4/8/2P3RP/5qPK/8 b - - 0 37",
+            "eval": -0.42,
+            "averageLichessElo": 1552,
+            "link": "https://lichess.org/ajx7r7il"
+        },
+        {
+            "id": "KED0R790",
+            "fen": "4k2b/pq1n4/1p3p2/1P3n2/4P1p1/1Q1NB1Pp/7P/2R3K1 w - - 0 35",
+            "eval": 5.12,
+            "averageLichessElo": 1792,
+            "link": "https://lichess.org/dlc9eqry"
+        },
+        {
+            "id": "7JYHW5LG",
+            "fen": "2r3k1/5p1p/6p1/4P3/2q5/p4Q2/6PP/5R1K w - - 0 35",
+            "eval": -0.71,
+            "averageLichessElo": 1652,
+            "link": "https://lichess.org/1y6zwecs"
+        },
+        {
+            "id": "QFNI5NCG",
+            "fen": "2k1q3/pp1b4/3B4/3p1p2/P4Pn1/KPQ5/8/8 b - - 7 39",
+            "eval": 4.2,
+            "averageLichessElo": 1598,
+            "link": "https://lichess.org/f6tw1sck"
+        },
+        {
+            "id": "N6KDOJAB",
+            "fen": "8/8/3R1ppk/p5b1/P4P2/1Br3K1/2P5/8 w - - 1 33",
+            "eval": 3.92,
+            "averageLichessElo": 1753,
+            "link": "https://lichess.org/lckhijzh"
+        },
+        {
+            "id": "NJQ8H595",
+            "fen": "5R2/1kp5/pb6/3r2Q1/1P1r3P/P7/6P1/7K w - - 5 37",
+            "eval": 2.89,
+            "averageLichessElo": 1661,
+            "link": "https://lichess.org/catx1zdi"
+        },
+        {
+            "id": "1QLTIOJ3",
+            "fen": "r5nr/ppp3pp/2q3k1/n1b1PbN1/5B1P/8/PPP3P1/RN1Q1R1K b - - 0 13",
+            "eval": 0.92,
+            "averageLichessElo": 1953,
+            "link": "https://lichess.org/c32g1re4"
+        },
+        {
+            "id": "AXELRG0I",
+            "fen": "r1b1nrk1/pp3pp1/2pb3p/4NP2/P3P3/2P3Pq/1PQ1B2P/R1B2R1K w - - 3 24",
+            "eval": 4.34,
+            "averageLichessElo": 1761,
+            "link": "https://lichess.org/6injn2di"
+        },
+        {
+            "id": "4L18MDMB",
+            "fen": "8/8/2P5/1R6/KPB2k2/8/8/q7 w - - 2 65",
+            "eval": 0.0,
+            "averageLichessElo": 1544,
+            "link": "https://lichess.org/qdfulfuy"
+        },
+        {
+            "id": "P2XRRKX1",
+            "fen": "r4r1k/3np3/ppbq1pQN/6pP/2Pp4/6P1/P3PP2/4K1N1 b - - 0 27",
+            "eval": 10.89,
+            "averageLichessElo": 1638,
+            "link": "https://lichess.org/jqodf9ef"
+        },
+        {
+            "id": "43YZ08NL",
+            "fen": "5r2/3pk1q1/1Q2p3/8/2P4p/7P/P1P2rP1/R3RK2 w - - 0 28",
+            "eval": 1.7,
+            "averageLichessElo": 1653,
+            "link": "https://lichess.org/96wvcck8"
+        },
+        {
+            "id": "1VBTH8R0",
+            "fen": "8/p1kp1Q1p/1p2pb2/2p5/4P1PP/1PqP4/2PK4/RR6 w - - 0 31",
+            "eval": 3.78,
+            "averageLichessElo": 1612,
+            "link": "https://lichess.org/pofz9oem"
+        },
+        {
+            "id": "37HMR0ZM",
+            "fen": "8/2Bp2p1/3P3p/3KPk2/2P5/3R4/4r3/8 w - - 11 55",
+            "eval": 5.28,
+            "averageLichessElo": 1600,
+            "link": "https://lichess.org/jzsd7etv"
+        },
+        {
+            "id": "EI08CQN7",
+            "fen": "Q7/6pk/7p/5p2/8/4P1PK/5P1P/3q4 w - - 1 39",
+            "eval": 0.32,
+            "averageLichessElo": 1680,
+            "link": "https://lichess.org/rxav4ryf"
+        },
+        {
+            "id": "BYP1T5RS",
+            "fen": "6R1/8/5r2/8/8/5k2/7K/8 w - - 3 105",
+            "eval": 0.0,
+            "averageLichessElo": 1602,
+            "link": "https://lichess.org/9lduo8ev"
+        },
+        {
+            "id": "UQI4D8AR",
+            "fen": "5k2/4R3/p1Bp1p1p/2qP2p1/2p1Q3/2P2P1P/Pr4K1/8 w - - 4 36",
+            "eval": 0.0,
+            "averageLichessElo": 1747,
+            "link": "https://lichess.org/rmtr4bq0"
+        },
+        {
+            "id": "YT0D1F9Z",
+            "fen": "rnb1k2r/p4pb1/2p2qp1/7p/1p2PN1P/3BQ3/PPP3P1/2KR2NR w kq - 1 15",
+            "eval": 1.7,
+            "averageLichessElo": 2064,
+            "link": "https://lichess.org/qwo3voiq"
+        },
+        {
+            "id": "J76XMKBE",
+            "fen": "2r2r2/pp2kpp1/5q1p/1B2pn2/6Q1/2P5/PP4PP/R4RK1 b - - 3 20",
+            "eval": 0.08,
+            "averageLichessElo": 1712,
+            "link": "https://lichess.org/gltprof7"
+        },
+        {
+            "id": "CITQBUWR",
+            "fen": "r1bqk1r1/pp2b1Pp/2n2n2/1BNpQ3/4p3/8/PPPP1PPP/RNB1K2R b KQq - 2 11",
+            "eval": 2.12,
+            "averageLichessElo": 1743,
+            "link": "https://lichess.org/spz1p1l3"
+        },
+        {
+            "id": "00KEK06Z",
+            "fen": "rn1qkb1r/1p3Bp1/p6p/8/3Pb3/1Q2n3/PP3PPP/2KR2NR b kq - 0 14",
+            "eval": 2.66,
+            "averageLichessElo": 1536,
+            "link": "https://lichess.org/u8lssapy"
+        },
+        {
+            "id": "9YPP1LWY",
+            "fen": "3r3k/p1p1R2p/1bpp1N2/5b2/2P2pB1/1P5P/P4PP1/5K2 b - - 4 27",
+            "eval": -0.72,
+            "averageLichessElo": 1866,
+            "link": "https://lichess.org/xdau9237"
+        },
+        {
+            "id": "FB9LPW74",
+            "fen": "3qb1k1/pp3ppp/8/2p5/3r4/2Q3B1/PPP3PP/4R1K1 b - - 1 22",
+            "eval": 1.68,
+            "averageLichessElo": 1541,
+            "link": "https://lichess.org/jt8diupa"
+        },
+        {
+            "id": "W60WVK44",
+            "fen": "r1b2rk1/3p2pp/2pb4/pp2R3/8/2NB3P/PPP3P1/R1B4K w - - 1 18",
+            "eval": 3.76,
+            "averageLichessElo": 1549,
+            "link": "https://lichess.org/ek8z1cbo"
+        },
+        {
+            "id": "3X757R8J",
+            "fen": "8/8/kp6/5Kp1/P7/8/4Q3/7q b - - 4 51",
+            "eval": 0.0,
+            "averageLichessElo": 1688,
+            "link": "https://lichess.org/ei7wsjd2"
+        },
+        {
+            "id": "1ZNS1ZCC",
+            "fen": "r6k/1pp1q2n/p4N1Q/4p2P/3p4/3P4/PPP2P2/2K3R1 b - - 2 25",
+            "eval": 3.33,
+            "averageLichessElo": 1927,
+            "link": "https://lichess.org/uiyfa0o8"
+        },
+        {
+            "id": "WEO79YIU",
+            "fen": "1r3q2/1b1k4/1Q3p2/p1R1pP1p/4P2P/3P4/PP6/1K6 b - - 4 34",
+            "eval": 0.98,
+            "averageLichessElo": 1833,
+            "link": "https://lichess.org/5ii3qsgr"
+        },
+        {
+            "id": "W7S0VSV0",
+            "fen": "1k1r2nr/ppp2ppp/2p5/2Q3B1/4P1b1/3P4/PqP2PPP/RN2K2R w KQ - 0 11",
+            "eval": 0.22,
+            "averageLichessElo": 1666,
+            "link": "https://lichess.org/7r8taf02"
+        },
+        {
+            "id": "8JRXTT8C",
+            "fen": "r4rk1/pb1q3p/2n1p1p1/2p1PpP1/8/2P1BN1Q/PP4P1/R3K2R b KQ - 1 19",
+            "eval": 0.4,
+            "averageLichessElo": 1741,
+            "link": "https://lichess.org/u02xlobb"
+        },
+        {
+            "id": "6ZPBBAS7",
+            "fen": "4rr1k/pp1q2pp/8/2p2b2/8/2PP1BQ1/PP6/5RRK b - - 0 28",
+            "eval": 4.11,
+            "averageLichessElo": 1865,
+            "link": "https://lichess.org/crkdacmj"
+        },
+        {
+            "id": "GUT8YUWJ",
+            "fen": "3q4/2r1prk1/1p1pRp2/p2P1P2/2P4Q/6P1/P7/4R1K1 b - - 0 28",
+            "eval": -0.23,
+            "averageLichessElo": 1861,
+            "link": "https://lichess.org/83ybfhta"
+        },
+        {
+            "id": "L86JJF9U",
+            "fen": "1r1qkb1r/1p3p2/p3p1p1/2pnpb2/P1B3P1/2NP1Q2/1PP5/R1B2RK1 b k - 0 16",
+            "eval": 2.44,
+            "averageLichessElo": 1812,
+            "link": "https://lichess.org/jvhvvnqe"
+        },
+        {
+            "id": "Y3Y63DQD",
+            "fen": "r1b2r2/1p1qbpk1/p1pp3p/4p2Q/4PpN1/P1PP3P/BP3PP1/R3R1K1 b - - 3 18",
+            "eval": -0.47,
+            "averageLichessElo": 1634,
+            "link": "https://lichess.org/3kt09j2g"
+        },
+        {
+            "id": "I78EQ9AM",
+            "fen": "r5k1/5ppp/2p3n1/3pPN2/6Q1/r4R1P/3q2P1/5R1K b - - 0 27",
+            "eval": 3.03,
+            "averageLichessElo": 1613,
+            "link": "https://lichess.org/9rzsjlxc"
+        },
+        {
+            "id": "H8FTSEFS",
+            "fen": "8/4k3/p3b3/8/1P3QPK/1r5P/8/8 w - - 9 48",
+            "eval": 4.61,
+            "averageLichessElo": 1754,
+            "link": "https://lichess.org/ge4zvb12"
+        },
+        {
+            "id": "PU1K8CQB",
+            "fen": "8/5p2/4b1p1/6P1/8/6Rp/5K2/7k b - - 5 65",
+            "eval": 0.0,
+            "averageLichessElo": 1701,
+            "link": "https://lichess.org/o73z31n9"
+        },
+        {
+            "id": "5ANKMCT2",
+            "fen": "4r1k1/p1p2ppp/2Q1q3/3n4/3P4/5N2/PP3PPP/2R3K1 b - - 0 18",
+            "eval": -0.48,
+            "averageLichessElo": 1705,
+            "link": "https://lichess.org/f1pq4x5p"
+        },
+        {
+            "id": "0BOU8PYC",
+            "fen": "8/6Q1/4q3/p6p/Pp3P1P/1P4k1/1KPN4/4r2b b - - 1 41",
+            "eval": 5.97,
+            "averageLichessElo": 1579,
+            "link": "https://lichess.org/qjm2yyre"
+        },
+        {
+            "id": "OTY90ESF",
+            "fen": "5r1k/ppP3p1/1n4qp/2N1p3/4Np2/2P2Pn1/PP2RKP1/R1BQ3r w - - 3 26",
+            "eval": 2.84,
+            "averageLichessElo": 1660,
+            "link": "https://lichess.org/ei8qovo4"
+        },
+        {
+            "id": "YBDSZHDA",
+            "fen": "N4r1k/R5p1/1p5p/5pq1/4n3/8/PP1rQ1PP/1B2R1K1 w - - 2 29",
+            "eval": -0.43,
+            "averageLichessElo": 1700,
+            "link": "https://lichess.org/1v0tsle8"
+        },
+        {
+            "id": "8IXYBHEE",
+            "fen": "8/5p1p/pkb1pp2/2p5/2N5/1PK1P1P1/P4P1P/8 b - - 12 32",
+            "eval": -0.61,
+            "averageLichessElo": 1595,
+            "link": "https://lichess.org/2e6e7fr7"
+        },
+        {
+            "id": "06NFGL1M",
+            "fen": "r4b1r/3kn1p1/3p4/p2P2N1/2PN2R1/1P2BQPp/1q5P/2R3K1 w - - 5 37",
+            "eval": 6.69,
+            "averageLichessElo": 1610,
+            "link": "https://lichess.org/604a8lr5"
+        },
+        {
+            "id": "O1H6DD1Y",
+            "fen": "r5k1/1p1n1ppB/3N3p/3Pp3/q7/3Q2PP/7r/3R1K2 b - - 1 31",
+            "eval": 5.18,
+            "averageLichessElo": 1960,
+            "link": "https://lichess.org/i5iqjnjz"
+        },
+        {
+            "id": "F47RWZQ4",
+            "fen": "6r1/p4pkp/1p2pn2/3bN3/3P3K/P3PP1P/1r6/6R1 b - - 1 28",
+            "eval": 6.96,
+            "averageLichessElo": 1708,
+            "link": "https://lichess.org/msysekk7"
+        },
+        {
+            "id": "EDABY77J",
+            "fen": "8/1bp3pk/ppn3rp/3P2q1/5p2/2P3N1/P1Q2BPP/3R1RK1 w - - 0 25",
+            "eval": 5.19,
+            "averageLichessElo": 1681,
+            "link": "https://lichess.org/n7co9hx8"
+        },
+        {
+            "id": "0M8NK39E",
+            "fen": "r4r1k/1p4p1/p3p3/1b2P3/4qP2/1B2n1P1/P2Q3P/RN2K1R1 w Q - 4 25",
+            "eval": 1.81,
+            "averageLichessElo": 1855,
+            "link": "https://lichess.org/mmmau1it"
+        },
+        {
+            "id": "NJF2XMYO",
+            "fen": "q5r1/p6k/4p2p/1pb2p2/8/5Q2/6PP/3RR2K w - - 0 29",
+            "eval": 15.04,
+            "averageLichessElo": 1639,
+            "link": "https://lichess.org/jwcs8k3x"
+        },
+        {
+            "id": "Q9ZXKY5L",
+            "fen": "5r2/4qpkp/p2b2p1/1p4N1/1P2p2Q/8/P4PPP/2R3K1 b - - 3 26",
+            "eval": 5.26,
+            "averageLichessElo": 1530,
+            "link": "https://lichess.org/ga8s9qqp"
+        },
+        {
+            "id": "40OWH4PK",
+            "fen": "3r1kr1/pp3b2/5Q2/3p1p2/8/1P2R1qP/3B3K/8 w - - 0 37",
+            "eval": 5.65,
+            "averageLichessElo": 1866,
+            "link": "https://lichess.org/gm40z4yq"
+        },
+        {
+            "id": "8NKX3Z0X",
+            "fen": "3r4/1kp3p1/2p2p2/2N1p2p/1PPn4/5P1P/1P3KP1/R7 b - - 5 28",
+            "eval": 0.0,
+            "averageLichessElo": 1607,
+            "link": "https://lichess.org/j0smxu48"
+        },
+        {
+            "id": "VC2LR1AV",
+            "fen": "r1bk2N1/ppp5/2nb4/4q3/2P1P2p/8/PP3pPP/RNBQ1RK1 w - - 0 17",
+            "eval": 2.98,
+            "averageLichessElo": 1819,
+            "link": "https://lichess.org/o14roliw"
+        },
+        {
+            "id": "Q1KVYIJ6",
+            "fen": "4r3/5k2/1Q4p1/8/4pP1b/6q1/P1PB4/3R1R1K w - - 2 33",
+            "eval": 4.87,
+            "averageLichessElo": 1545,
+            "link": "https://lichess.org/ybo602l1"
+        },
+        {
+            "id": "P1KPEGU9",
+            "fen": "rn2k1nr/pbp1b2p/1pq1p3/4Pp2/2P3p1/2N2N2/PPB1QPPP/R1B1R1K1 w kq - 0 13",
+            "eval": 2.67,
+            "averageLichessElo": 1630,
+            "link": "https://lichess.org/11q270vj"
+        },
+        {
+            "id": "850EE4CR",
+            "fen": "8/1PQ2p2/4pk2/5p2/8/4Pq1K/5P1P/8 w - - 9 48",
+            "eval": 0.02,
+            "averageLichessElo": 1645,
+            "link": "https://lichess.org/9wg30j6o"
+        },
+        {
+            "id": "FM6UF1IG",
+            "fen": "k3r3/1p3q2/p1pQ1b2/8/3Pp1p1/2P2pB1/PP3P1P/4R2K b - - 1 32",
+            "eval": 0.66,
+            "averageLichessElo": 1872,
+            "link": "https://lichess.org/yuocsd12"
+        },
+        {
+            "id": "R16THMXG",
+            "fen": "5rk1/3R3p/2P1prp1/p3Q3/1qp5/8/P4PPP/3R2K1 b - - 5 31",
+            "eval": -0.77,
+            "averageLichessElo": 1868,
+            "link": "https://lichess.org/e75ohrji"
+        },
+        {
+            "id": "E4FDYGP5",
+            "fen": "6k1/pp3ppp/3pq3/2p4r/2P1P1PK/P2Q1P2/1P3R2/6R1 w - - 1 34",
+            "eval": 8.34,
+            "averageLichessElo": 1640,
+            "link": "https://lichess.org/pbgyfo1d"
+        },
+        {
+            "id": "JULXX0NK",
+            "fen": "8/2p5/4p3/p2p4/5Q1k/4P3/Pr1NKP2/b6q b - - 7 30",
+            "eval": 0.0,
+            "averageLichessElo": 1552,
+            "link": "https://lichess.org/mddfd08f"
+        },
+        {
+            "id": "MOQ7ENQH",
+            "fen": "6k1/p4pp1/4pq1p/1pn5/8/2P5/PPB2PPP/3R2K1 b - - 1 21",
+            "eval": 4.83,
+            "averageLichessElo": 1747,
+            "link": "https://lichess.org/9wuqgx26"
+        },
+        {
+            "id": "5UBND37A",
+            "fen": "1r1r2k1/ppb3pp/n3p3/4p3/1Pn1N3/P3P3/1B2NPPP/R2R2K1 w - - 13 21",
+            "eval": 0.79,
+            "averageLichessElo": 1701,
+            "link": "https://lichess.org/z9hy4g8l"
+        },
+        {
+            "id": "2H9YB00D",
+            "fen": "6k1/1b1r1p1p/6p1/2p3q1/P1Nb4/3B1Q1P/2P2PP1/4R1K1 w - - 7 23",
+            "eval": 0.57,
+            "averageLichessElo": 1741,
+            "link": "https://lichess.org/4ei5q1wa"
+        },
+        {
+            "id": "A9TXIXS6",
+            "fen": "5rk1/p4pp1/7p/8/6Q1/2q1PN2/P1P3PP/4R1K1 w - - 1 21",
+            "eval": 5.35,
+            "averageLichessElo": 1733,
+            "link": "https://lichess.org/ntin1pw2"
+        },
+        {
+            "id": "Y10U858G",
+            "fen": "8/1R6/4pk2/4Np1p/3P4/4P1PK/5r2/8 w - - 0 41",
+            "eval": 5.1,
+            "averageLichessElo": 1867,
+            "link": "https://lichess.org/0dcjg2gb"
+        },
+        {
+            "id": "FDIP0RHD",
+            "fen": "2kr1b1r/p1p2ppp/8/4p2q/3B2n1/2N2N2/PPP2PP1/R2Q1RK1 w - - 0 14",
+            "eval": 0.33,
+            "averageLichessElo": 1567,
+            "link": "https://lichess.org/1cxmpvhd"
+        },
+        {
+            "id": "ZZLJ7R63",
+            "fen": "1k4r1/p2r1p1p/Q1P1p3/3q1p2/3P4/2P3P1/1b3P1P/1R4K1 b - - 0 29",
+            "eval": -0.42,
+            "averageLichessElo": 1626,
+            "link": "https://lichess.org/96e9a1zw"
+        },
+        {
+            "id": "4IALKO15",
+            "fen": "3r4/8/R5k1/1ppp2pp/2n3N1/2P2P1P/PP6/6K1 b - - 3 37",
+            "eval": 0.44,
+            "averageLichessElo": 1578,
+            "link": "https://lichess.org/2wdt1vsd"
+        },
+        {
+            "id": "UV05SOLG",
+            "fen": "1Q6/pb4rk/5p1p/2P4B/7P/P3p3/1q3PP1/5RK1 w - - 0 37",
+            "eval": -0.1,
+            "averageLichessElo": 1598,
+            "link": "https://lichess.org/ut8hwstu"
+        },
+        {
+            "id": "O5K73HCK",
+            "fen": "r4b1r/4nk2/p1q3p1/2P5/1p3B2/5NPp/PPP1RP1P/R2Q2K1 w - - 2 23",
+            "eval": 9.84,
+            "averageLichessElo": 1668,
+            "link": "https://lichess.org/errluobj"
+        },
+        {
+            "id": "X6PVM38S",
+            "fen": "r3rk2/pbpq1p1B/1p1bp3/6Q1/3P4/8/PPP2PPP/R3R1K1 b - - 7 19",
+            "eval": 0.5,
+            "averageLichessElo": 1619,
+            "link": "https://lichess.org/zwwq35lx"
+        },
+        {
+            "id": "BN8NH66G",
+            "fen": "6R1/4krp1/1pBb4/2pPp3/7p/8/5nK1/5R2 b - - 1 36",
+            "eval": 0.37,
+            "averageLichessElo": 1924,
+            "link": "https://lichess.org/zfqbcup0"
+        },
+        {
+            "id": "DXIFMLOJ",
+            "fen": "1k4r1/1pp3Q1/p1n4p/3q4/P1N5/1P1P3P/5PP1/R5K1 w - - 1 25",
+            "eval": 1.77,
+            "averageLichessElo": 1579,
+            "link": "https://lichess.org/00lkr0vp"
+        },
+        {
+            "id": "2UV84ELR",
+            "fen": "6k1/5ppp/rB6/Pr2p3/2b1P3/1p3P2/1R4PP/2R3K1 b - - 2 28",
+            "eval": 0.28,
+            "averageLichessElo": 1627,
+            "link": "https://lichess.org/a3nejepu"
+        },
+        {
+            "id": "NGROVH1S",
+            "fen": "2k5/1p3p1p/8/4R3/6P1/5P2/2r3r1/4R1K1 w - - 1 39",
+            "eval": -0.18,
+            "averageLichessElo": 1681,
+            "link": "https://lichess.org/prrqeiwu"
+        },
+        {
+            "id": "Y87RXJ7L",
+            "fen": "r4rk1/pp2bppp/3p4/2p4q/4P1n1/2P2N2/PP2BPPP/R1BQ1RK1 w - - 3 19",
+            "eval": 6.27,
+            "averageLichessElo": 1600,
+            "link": "https://lichess.org/dlr9rmiz"
+        },
+        {
+            "id": "UCH2HDI0",
+            "fen": "8/pp6/8/8/2B4P/1P4Q1/PK1q4/7k w - - 13 50",
+            "eval": 0.0,
+            "averageLichessElo": 1565,
+            "link": "https://lichess.org/ga8p1j64"
+        },
+        {
+            "id": "DREP95O5",
+            "fen": "r4r1k/pp3p1n/2p1pb1Q/4Nq2/3P1P2/2P3R1/PP4PP/5RK1 b - - 12 23",
+            "eval": 0.0,
+            "averageLichessElo": 1839,
+            "link": "https://lichess.org/9aob273a"
+        },
+        {
+            "id": "SE3A8WO2",
+            "fen": "5r2/7B/2rN3R/p1k1p3/1n1p2P1/5P2/q7/2RK4 b - - 7 43",
+            "eval": 5.97,
+            "averageLichessElo": 1703,
+            "link": "https://lichess.org/w842whej"
+        },
+        {
+            "id": "YZTMFIRI",
+            "fen": "1r2kb1r/1q1n2p1/2n2p1p/5P2/p3PQ2/4BN1P/PPRN2P1/1KR5 w k - 2 25",
+            "eval": 4.59,
+            "averageLichessElo": 1530,
+            "link": "https://lichess.org/51krux1r"
+        },
+        {
+            "id": "GHI1X97U",
+            "fen": "8/p6k/R1R5/1p6/1PpK4/6r1/P2r4/8 w - - 4 63",
+            "eval": -0.04,
+            "averageLichessElo": 1551,
+            "link": "https://lichess.org/4pzu06k1"
+        },
+        {
+            "id": "5ULO1XXS",
+            "fen": "3r2k1/1Q3p1p/N3p1p1/8/2bp4/2q2N2/P4PPP/4R1K1 w - - 0 28",
+            "eval": 2.97,
+            "averageLichessElo": 1596,
+            "link": "https://lichess.org/ugkprxt4"
+        },
+        {
+            "id": "EXGEOFZL",
+            "fen": "6k1/R4p2/1p4p1/4b2p/P1B1b3/1P2B2P/5PPK/3r4 w - - 3 26",
+            "eval": 2.59,
+            "averageLichessElo": 1616,
+            "link": "https://lichess.org/7e6uw2jg"
+        },
+        {
+            "id": "CRI19XNF",
+            "fen": "1k3r2/6pp/p1p3b1/1p2P3/3BP2P/2PQK1P1/R3Nr2/8 w - - 1 33",
+            "eval": 7.34,
+            "averageLichessElo": 1695,
+            "link": "https://lichess.org/4gscar2p"
+        },
+        {
+            "id": "7ZWGKXKK",
+            "fen": "3r1rk1/1b6/p1qpp2p/5ppN/2pPP3/4Q2P/PP3PP1/R3R1K1 w - - 0 27",
+            "eval": 1.12,
+            "averageLichessElo": 1597,
+            "link": "https://lichess.org/u9jfll5h"
+        },
+        {
+            "id": "JZDNKMJN",
+            "fen": "6k1/5p2/8/7p/5p1P/1B3P1K/Pr1r2P1/6R1 w - - 0 27",
+            "eval": -0.96,
+            "averageLichessElo": 1663,
+            "link": "https://lichess.org/kernnha2"
+        },
+        {
+            "id": "ELXPU1M5",
+            "fen": "r3kbnr/1b3ppp/pp2p3/3qP3/3N4/8/PP3PPP/RNBQK2R w KQkq - 0 11",
+            "eval": -0.98,
+            "averageLichessElo": 1777,
+            "link": "https://lichess.org/8t3ua451"
+        },
+        {
+            "id": "ZARX0IAZ",
+            "fen": "2nkr3/2p3p1/3p3p/4q3/b7/P1Q4P/1K2B1P1/2R1R3 b - - 3 41",
+            "eval": -0.6,
+            "averageLichessElo": 1665,
+            "link": "https://lichess.org/miw4j15o"
+        },
+        {
+            "id": "UCHIZBRS",
+            "fen": "6rk/pp3p1p/2pb1p2/3p1p2/3PqP2/2P1P1QP/PP4P1/3N1RK1 w - - 1 24",
+            "eval": 0.62,
+            "averageLichessElo": 1852,
+            "link": "https://lichess.org/ohx8ke4v"
+        },
+        {
+            "id": "BG1PQN6N",
+            "fen": "r4rk1/3n2pp/2pbp3/p2pNp2/3Pn2q/P1NBP3/1B2QPPP/R4RK1 w - - 4 18",
+            "eval": 4.02,
+            "averageLichessElo": 1507,
+            "link": "https://lichess.org/cgb1mir1"
+        },
+        {
+            "id": "ISMUOMJM",
+            "fen": "r1bq1rk1/4p1bQ/1p3n1p/p1pPp1p1/8/2P1BR2/PPB3PP/RN4K1 b - - 1 17",
+            "eval": 6.89,
+            "averageLichessElo": 1742,
+            "link": "https://lichess.org/jzrzcfo7"
+        },
+        {
+            "id": "CKRDB39J",
+            "fen": "2kr2r1/pbpp1q2/1pn1p3/1P6/2P2P2/B2P1Q2/P4RBP/1N4K1 b - - 0 26",
+            "eval": 4.98,
+            "averageLichessElo": 1798,
+            "link": "https://lichess.org/0ypvmu5e"
+        },
+        {
+            "id": "8ABW8PSP",
+            "fen": "8/8/8/p2R4/P3p1P1/1Pk2p1P/1r3P2/4K3 w - - 5 44",
+            "eval": 0.9,
+            "averageLichessElo": 1665,
+            "link": "https://lichess.org/s46gutbu"
+        },
+        {
+            "id": "5B0Q1LBU",
+            "fen": "4r2k/pp5p/6bP/q7/5P2/2p1PQ1B/PP1p4/K2R2R1 w - - 0 33",
+            "eval": 9.07,
+            "averageLichessElo": 1674,
+            "link": "https://lichess.org/hvjaoc6e"
+        },
+        {
+            "id": "WE1BDD0A",
+            "fen": "4r1k1/5ppp/1pNQ4/1P6/2P1P1q1/3P2P1/4nP1P/5RK1 w - - 1 28",
+            "eval": 4.53,
+            "averageLichessElo": 1629,
+            "link": "https://lichess.org/i2c0z4za"
+        },
+        {
+            "id": "OZG8A190",
+            "fen": "r1b2r2/p2p1pkp/2p1p2q/3n4/5P2/2PQ3R/P1P1B1PP/R5K1 b - - 1 17",
+            "eval": 4.38,
+            "averageLichessElo": 1561,
+            "link": "https://lichess.org/0plgll5s"
+        },
+        {
+            "id": "29B8ISMM",
+            "fen": "2k5/R1p5/2P2p1p/8/3P3N/6K1/1r3PP1/4b3 b - - 0 35",
+            "eval": 0.0,
+            "averageLichessElo": 1522,
+            "link": "https://lichess.org/1sblxhfm"
+        },
+        {
+            "id": "8JLCYWXX",
+            "fen": "r3r1k1/pbp2ppp/1p1p4/4n1q1/6N1/P1BQ3P/1PP2PP1/R3R1K1 w - - 0 17",
+            "eval": -0.46,
+            "averageLichessElo": 1552,
+            "link": "https://lichess.org/ixchi0ys"
+        },
+        {
+            "id": "FYMO1DQQ",
+            "fen": "r5rk/pp1b1p1p/5P1Q/2pPp1R1/4P3/P1N4P/1P3qP1/R6K w - - 2 26",
+            "eval": 6.58,
+            "averageLichessElo": 1806,
+            "link": "https://lichess.org/uduqdbr3"
+        },
+        {
+            "id": "S7ZRFDY9",
+            "fen": "6k1/ppp1qppp/1n6/4P3/1bP1N3/1P6/PB2QPPP/3r2K1 w - - 0 21",
+            "eval": 1.99,
+            "averageLichessElo": 1580,
+            "link": "https://lichess.org/0tx8gliy"
+        },
+        {
+            "id": "EFTQFKQ8",
+            "fen": "5r1k/5Pp1/2p2nBp/p2qpQ2/1p6/2P3PK/PP6/4R3 w - - 0 38",
+            "eval": 2.86,
+            "averageLichessElo": 1654,
+            "link": "https://lichess.org/crrmtxc7"
+        },
+        {
+            "id": "8ZRV9Y2M",
+            "fen": "rn1q4/pk4pr/1pp1pnNp/5p2/1b1PPB1Q/1P1B1P2/1P2K1PP/R2R4 b - - 4 19",
+            "eval": -0.75,
+            "averageLichessElo": 1696,
+            "link": "https://lichess.org/u5khs09j"
+        },
+        {
+            "id": "IR7FMF8H",
+            "fen": "3r3r/1ppk2p1/2bpp3/3q2p1/8/4QN2/P4PPP/2R1R1K1 w - - 0 22",
+            "eval": -0.81,
+            "averageLichessElo": 1638,
+            "link": "https://lichess.org/dhgf12xu"
+        },
+        {
+            "id": "ABR4151R",
+            "fen": "N2k4/1b2n2Q/p2p2p1/2p5/1p2P3/3n2PB/PPq2r2/R2N1K1R w - - 0 24",
+            "eval": 2.82,
+            "averageLichessElo": 1940,
+            "link": "https://lichess.org/lqqfkzxa"
+        },
+        {
+            "id": "9T2EY91T",
+            "fen": "8/2N2k1p/2q3p1/p4b2/1p6/8/PPPQ1P1P/2K5 w - - 2 25",
+            "eval": 0.64,
+            "averageLichessElo": 1870,
+            "link": "https://lichess.org/qrzhyzoh"
+        },
+        {
+            "id": "VG1SAMV7",
+            "fen": "r4rk1/pp3ppp/2p5/3p4/6n1/3B2N1/PPP2qKP/R2QR3 w - - 6 19",
+            "eval": 0.4,
+            "averageLichessElo": 1608,
+            "link": "https://lichess.org/x3pkqx37"
+        },
+        {
+            "id": "D5QJ5U60",
+            "fen": "r2q1rk1/pb2bpp1/1pnppn1p/8/3P1B2/2PQ1PN1/PPB3PP/RN3RK1 b - - 1 12",
+            "eval": -0.36,
+            "averageLichessElo": 1791,
+            "link": "https://lichess.org/3ykv8b60"
+        },
+        {
+            "id": "7U88RRC8",
+            "fen": "r6r/4k1p1/b2b3p/p2PpQ2/B1p5/P6P/1qP2PP1/R3R1K1 b - - 1 22",
+            "eval": -0.16,
+            "averageLichessElo": 1509,
+            "link": "https://lichess.org/9kjjf8it"
+        },
+        {
+            "id": "WC3YKOTO",
+            "fen": "r1b1k2r/p1q1bppp/2p2n2/2pp4/5P2/P4N2/1PPPQ1PP/RNB1R1K1 b kq - 0 10",
+            "eval": 0.52,
+            "averageLichessElo": 1737,
+            "link": "https://lichess.org/7xiyorrt"
+        },
+        {
+            "id": "YAQ13HO9",
+            "fen": "5k2/6p1/4pb2/2pp4/5PP1/2P1PN2/r1K3P1/3R4 w - - 1 29",
+            "eval": -0.5,
+            "averageLichessElo": 1500,
+            "link": "https://lichess.org/zlydklpf"
+        },
+        {
+            "id": "9153RBRG",
+            "fen": "1kn5/pp3rp1/8/B2Q2p1/3Pp1Pn/4q2P/PR4BK/8 b - - 1 31",
+            "eval": 5.39,
+            "averageLichessElo": 1622,
+            "link": "https://lichess.org/yxwyksjt"
+        },
+        {
+            "id": "R3R2KG80",
+            "fen": "r4rk1/1pR3pp/p7/3p4/1P1Pp1q1/6Q1/P4PK1/R7 b - - 2 33",
+            "eval": 2.22,
+            "averageLichessElo": 1891,
+            "link": "https://lichess.org/8xlu5w7z"
+        },
+        {
+            "id": "WKOSH21M",
+            "fen": "5rk1/pp4p1/3Qb3/8/2q5/2N5/PPP2KPP/R1B5 w - - 1 20",
+            "eval": 1.81,
+            "averageLichessElo": 1720,
+            "link": "https://lichess.org/frj8t45z"
+        },
+        {
+            "id": "17AGR2IQ",
+            "fen": "3r4/5pk1/3P1npQ/4pr1R/2B5/1NKPq3/8/8 b - - 2 37",
+            "eval": 6.63,
+            "averageLichessElo": 1513,
+            "link": "https://lichess.org/qgxfym9p"
+        },
+        {
+            "id": "XX9REACE",
+            "fen": "1k1r1b1r/ppp2ppp/8/1q4P1/1nPP1B1P/1P3Q2/1P4B1/1K2R2R b - - 2 20",
+            "eval": 0.96,
+            "averageLichessElo": 1769,
+            "link": "https://lichess.org/eys9ctkb"
+        },
+        {
+            "id": "5Q1DCQNR",
+            "fen": "8/1p3pk1/2q3p1/p6p/P1Pp2bP/3P1NP1/4QPK1/8 b - - 0 37",
+            "eval": 2.76,
+            "averageLichessElo": 1880,
+            "link": "https://lichess.org/2979dzuy"
+        },
+        {
+            "id": "ZIQ6YTJY",
+            "fen": "3k4/2p1p1n1/1pQpN3/3P4/8/5K2/3q2PP/8 b - - 9 42",
+            "eval": 0.0,
+            "averageLichessElo": 2011,
+            "link": "https://lichess.org/5jxgccbu"
+        },
+        {
+            "id": "5V4E3NJM",
+            "fen": "8/4kRp1/p3p2p/P3N3/3Pp3/q1r1P1P1/5PKP/8 b - - 6 48",
+            "eval": 4.42,
+            "averageLichessElo": 1615,
+            "link": "https://lichess.org/to6117k3"
+        },
+        {
+            "id": "WNCC8J3A",
+            "fen": "rn2kb1r/pp3ppp/2p1pn2/5bB1/2q5/5N2/PPPQ2PP/R4R1K b kq - 1 12",
+            "eval": 6.96,
+            "averageLichessElo": 1717,
+            "link": "https://lichess.org/68f2hmdd"
+        },
+        {
+            "id": "8XUBFO6N",
+            "fen": "6rk/p7/1p3q1P/2bPpBr1/7Q/6PR/PP3P2/4RK2 w - - 1 36",
+            "eval": 3.62,
+            "averageLichessElo": 1911,
+            "link": "https://lichess.org/m710htj6"
+        },
+        {
+            "id": "F476TX66",
+            "fen": "7R/8/8/5p2/3P1P1B/3kP2p/5Kb1/7r w - - 2 60",
+            "eval": -0.24,
+            "averageLichessElo": 1722,
+            "link": "https://lichess.org/gxgrhzpk"
+        },
+        {
+            "id": "GABJXXNB",
+            "fen": "3r3r/2k3pp/2p5/8/8/Q3b3/PPP3PP/2K5 w - - 0 26",
+            "eval": 3.5,
+            "averageLichessElo": 1554,
+            "link": "https://lichess.org/litpnhpc"
+        },
+        {
+            "id": "VXTETONE",
+            "fen": "r2q1rk1/pppn1p2/3bbn1Q/3p4/3P4/2NB1N2/PPP2PPP/R4RK1 b - - 0 11",
+            "eval": 0.0,
+            "averageLichessElo": 1741,
+            "link": "https://lichess.org/6xuhylk5"
+        },
+        {
+            "id": "GIYS127B",
+            "fen": "r4rk1/ppp2pp1/3pq3/4pN2/4P3/3P4/PP2K1P1/5R1R b - - 1 20",
+            "eval": 4.78,
+            "averageLichessElo": 1866,
+            "link": "https://lichess.org/dt0rpo46"
+        },
+        {
+            "id": "A3CF2Z5R",
+            "fen": "3rr3/2p5/8/R3pR2/8/1bpP3P/k1q2PP1/4Q1K1 b - - 2 40",
+            "eval": 2.15,
+            "averageLichessElo": 1556,
+            "link": "https://lichess.org/dsbj475k"
+        },
+        {
+            "id": "RU4NZOK3",
+            "fen": "6k1/5p2/2p2b1p/3p2p1/6q1/1PNP4/1PPBKP2/Q7 w - - 8 31",
+            "eval": 0.55,
+            "averageLichessElo": 2000,
+            "link": "https://lichess.org/nw8mbkem"
+        },
+        {
+            "id": "90LANLA8",
+            "fen": "1bnrr1k1/p1q2ppp/Ppp2p2/7b/Q2P4/2N1PN1P/1P2BPP1/R4RK1 w - - 2 19",
+            "eval": 0.36,
+            "averageLichessElo": 1648,
+            "link": "https://lichess.org/yu9z00mn"
+        },
+        {
+            "id": "WZ13BY4R",
+            "fen": "5b1r/4k3/1pqpPp2/2p1p1p1/2P5/p2QB2p/5P1N/6RK w - - 1 40",
+            "eval": -0.75,
+            "averageLichessElo": 1658,
+            "link": "https://lichess.org/vso8qeig"
+        },
+        {
+            "id": "ZVSBXC3X",
+            "fen": "8/6pk/7p/4R3/4p1r1/r7/8/4Q1K1 w - - 4 78",
+            "eval": 0.29,
+            "averageLichessElo": 1657,
+            "link": "https://lichess.org/z9au6y9m"
+        },
+        {
+            "id": "ZVV9B99W",
+            "fen": "3nr1k1/3Q2pp/4p1q1/2P5/p2B3b/P6P/1P4P1/5R1K b - - 0 28",
+            "eval": 3.15,
+            "averageLichessElo": 1555,
+            "link": "https://lichess.org/uouwvht2"
+        },
+        {
+            "id": "XO9687VF",
+            "fen": "r1bq1rk1/p4ppp/1p6/2p1n1b1/4P3/1PQ2P2/P2P3P/BN1K1BNR b - - 3 21",
+            "eval": 4.79,
+            "averageLichessElo": 1503,
+            "link": "https://lichess.org/yesa4787"
+        },
+        {
+            "id": "998QQFWP",
+            "fen": "1q2r1k1/r4pBn/1p5p/p1pb1P1n/8/PP1P1N1P/2PNB1Q1/2K3R1 b - - 0 26",
+            "eval": 0.05,
+            "averageLichessElo": 1685,
+            "link": "https://lichess.org/zg5tam24"
+        },
+        {
+            "id": "WUY310ET",
+            "fen": "2b5/7p/p1p5/PpP2p1k/1P2pP1P/1B2P1K1/8/8 b - - 2 49",
+            "eval": 0.0,
+            "averageLichessElo": 1961,
+            "link": "https://lichess.org/m1udh6f5"
+        },
+        {
+            "id": "OO9MK9OA",
+            "fen": "8/1Q6/1P4kp/6p1/3bP3/5P1P/1q4P1/3R2K1 w - - 1 41",
+            "eval": 5.96,
+            "averageLichessElo": 1597,
+            "link": "https://lichess.org/523uycbb"
+        },
+        {
+            "id": "IJSUJTNR",
+            "fen": "r3r2k/3p4/p1q3Qp/1p2n1p1/3B4/1B3P2/PPP2P1P/4RRK1 b - - 0 24",
+            "eval": 0.54,
+            "averageLichessElo": 1500,
+            "link": "https://lichess.org/d6i4p14z"
+        },
+        {
+            "id": "DRJ03N1A",
+            "fen": "8/p4p2/1kp4p/8/Pq6/7P/5Q2/7K b - - 1 42",
+            "eval": 3.38,
+            "averageLichessElo": 1936,
+            "link": "https://lichess.org/c1wt4dgn"
+        },
+        {
+            "id": "M7H6Q2TQ",
+            "fen": "2b1k3/3p1p1p/p1p1pQ2/4P3/Pr6/3BPK2/2P2RPP/3q4 w - - 9 20",
+            "eval": 0.43,
+            "averageLichessElo": 1828,
+            "link": "https://lichess.org/c3oaqtm9"
+        },
+        {
+            "id": "IGM7I4X4",
+            "fen": "2r3k1/pR1b1rpp/4p3/3p1p2/3P1B2/q1P3Q1/5PPP/2R3K1 w - - 1 27",
+            "eval": 0.6,
+            "averageLichessElo": 1566,
+            "link": "https://lichess.org/5xvzh2gk"
+        },
+        {
+            "id": "HAZZB51J",
+            "fen": "1r4k1/p3q1p1/2p3Qp/3pBR2/4n3/4P2P/6P1/6K1 b - - 0 39",
+            "eval": 2.54,
+            "averageLichessElo": 2196,
+            "link": "https://lichess.org/cqeezbik"
+        },
+        {
+            "id": "KZCZ8ZBF",
+            "fen": "7k/pppn2p1/6rp/7q/2Q1R3/2P2r2/PP3PPP/R6K w - - 0 28",
+            "eval": -0.09,
+            "averageLichessElo": 1524,
+            "link": "https://lichess.org/m9suxr9y"
+        },
+        {
+            "id": "Q5TMX6H7",
+            "fen": "2k5/1p3p2/p1n3p1/2P2p1q/1P2K3/P3P1P1/2QN1P1r/R6R w - - 0 25",
+            "eval": 1.39,
+            "averageLichessElo": 1662,
+            "link": "https://lichess.org/k2bwxd7h"
+        },
+        {
+            "id": "28O7O0TT",
+            "fen": "R7/1p1k1p2/p2p3p/3q2p1/8/5P2/PP4PP/1K2R3 w - - 0 28",
+            "eval": -0.1,
+            "averageLichessElo": 1869,
+            "link": "https://lichess.org/8ioie44k"
+        },
+        {
+            "id": "MH2TAKJA",
+            "fen": "8/2p1k3/4p3/1P2p1pp/1r2P3/8/5PPP/R5K1 w - - 1 26",
+            "eval": -0.38,
+            "averageLichessElo": 1596,
+            "link": "https://lichess.org/u64udiup"
+        },
+        {
+            "id": "HF56CMOL",
+            "fen": "r7/pp1nr1bk/5q1p/1BnQNp2/5P2/PP6/1BP5/1K4RR w - - 1 31",
+            "eval": 6.9,
+            "averageLichessElo": 1709,
+            "link": "https://lichess.org/x3ny6asy"
+        },
+        {
+            "id": "7KFK0NF5",
+            "fen": "r2q1rk1/pp1bbpp1/4pn1p/8/3N3B/2PQ4/PPB2PPP/R4RK1 b - - 4 17",
+            "eval": -0.82,
+            "averageLichessElo": 1655,
+            "link": "https://lichess.org/msd3h2ht"
+        },
+        {
+            "id": "09K15DDP",
+            "fen": "4r1r1/pbpn3k/1p1p1pq1/3PpN1p/4Pb2/2NB2PP/PPP1QR2/6RK w - - 0 33",
+            "eval": 4.28,
+            "averageLichessElo": 2070,
+            "link": "https://lichess.org/t602jzxg"
+        },
+        {
+            "id": "NVOP01UQ",
+            "fen": "8/7p/6k1/2PR4/5p2/1P1R4/1r5r/6K1 w - - 4 49",
+            "eval": -0.03,
+            "averageLichessElo": 1761,
+            "link": "https://lichess.org/cd7nvimr"
+        },
+        {
+            "id": "3Z90CSUV",
+            "fen": "r5k1/2R2ppp/2N4n/6r1/1P6/6PK/P7/5R2 b - - 0 27",
+            "eval": 0.26,
+            "averageLichessElo": 1788,
+            "link": "https://lichess.org/db1a2wu7"
+        }
+    ]
+]
