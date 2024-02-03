@@ -3,8 +3,9 @@ import Chess from "chess.js";
 import { Chessboard } from "react-chessboard";
 import "./index.css";
 
+const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
+
 function Game() {
-  const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
   const [currentPuzzle, setCurrentPuzzle] = useState(null);
 
   function sideToPlay(fen) {
