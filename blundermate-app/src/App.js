@@ -50,9 +50,7 @@ function App() {
             </a>
           </p>
           <p>
-            Also, I know this website is super awesome, and you probably want to
-            donate lots of money to me, but I must disappoint you, I don't have
-            a Patreon :&#40;{" "}
+            Enjoy!
           </p>
         </section>
       </div>

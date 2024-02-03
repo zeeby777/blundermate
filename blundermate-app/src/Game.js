@@ -3,6 +3,8 @@ import Chess from "chess.js";
 import { Chessboard } from "react-chessboard";
 import "./index.css";
 
+const BACKEND_URL = process.env.REACT_APP_API_URL
+
 function Game() {
   const [currentPuzzle, setCurrentPuzzle] = useState(null);
 
@@ -30,7 +32,7 @@ function Game() {
   }
 
   async function fetchPuzzle() {
-    const data = await fetchResponse("http://localhost:5000/getRandomPuzzle");
+    const data = await fetchResponse(BACKEND_URL + "/getRandomPuzzle");
     if (data) {
       const updatedPuzzle = {
         averageLichessElo: data.averageLichessElo,
@@ -227,7 +229,8 @@ function MyChessboard(props) {
       if (move) {
         const uciMove = `${move.from}${move.to}`; // Constructing the UCI format
         const result = await fetchMove(
-          `http://localhost:5000/checkMove?fen=${encodeURIComponent(
+          BACKEND_URL +
+          `/checkMove?fen=${encodeURIComponent(
             game.fen()
           )}&UCImove=${uciMove}`
         );
